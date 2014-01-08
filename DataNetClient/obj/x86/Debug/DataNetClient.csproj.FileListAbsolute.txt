@@ -125,3 +125,8 @@ C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Contro
 C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Controls.StyledListItemControl.resources
 C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Controls.StyledLoadAnimation.resources
 C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Controls.StyledTextBox.resources
+C:\Users\rusla_000\Source\Repos\DA\DataNetClient\bin\Debug\DataNetClient.exe.config
+C:\Users\rusla_000\Source\Repos\DA\DataNetClient\obj\x86\Debug\Interop.CQG.dll
+C:\Users\rusla_000\Source\Repos\DA\DataNetClient\obj\x86\Debug\DataNetClient.csproj.ResolveComReference.cache
+C:\Users\rusla_000\Source\Repos\DA\DataNetClient\obj\x86\Debug\DataNetClient.exe
+C:\Users\rusla_000\Source\Repos\DA\DataNetClient\obj\x86\Debug\DataNetClient.pdb

@@ -1593,6 +1593,8 @@ namespace DataNetClient.Core.DbConnector
 
         private static void CreateTables()
         {
+            var a = 1;
+
             const string createUsersSql = "CREATE TABLE  IF NOT EXISTS `" + TblUsers + "` ("
                                      + "`ID` INT(12) UNSIGNED  NOT NULL AUTO_INCREMENT,"
                                      + "`UserName` VARCHAR(50) NOT NULL,"
