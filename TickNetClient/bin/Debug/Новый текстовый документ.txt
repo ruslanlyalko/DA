@@ -1,0 +1,139 @@
+************** Текст исключения **************
+System.Data.SqlTypes.SqlNullValueException: Неопределенные данные. Этот метод или свойство не может вызываться для значений равных Null.
+   в MySql.Data.MySqlClient.MySqlDataReader.GetFieldValue(Int32 index, Boolean checkNull)
+   в MySql.Data.MySqlClient.MySqlDataReader.GetInt32(Int32 i)
+   в TickNetClient.Core.DbConnector.TickNetClientDataManager.GetSymbolsForUser(Int32 userId) в c:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\Core\DbConnector\TickNetClientDataManager.cs:строка 1171
+   в TickNetClient.Core.DbConnector.TickNetClientDataManager.GetSymbols(Int32 userId) в c:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\Core\DbConnector\TickNetClientDataManager.cs:строка 222
+   в TickNetClient.Forms.FormMain.RefreshSymbols() в c:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\Forms\FormMain.cs:строка 783
+   в TickNetClient.Forms.FormMain.ui_buttonX_shareConnect_Click(Object sender, EventArgs e) в c:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\Forms\FormMain.cs:строка 716
+   в System.Windows.Forms.Control.OnClick(EventArgs e)
+   в DevComponents.DotNetBar.ButtonX.OnClick(EventArgs e)
+   в DevComponents.DotNetBar.ButtonX.OnMouseUp(MouseEventArgs e)
+   в System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   в System.Windows.Forms.Control.WndProc(Message& m)
+   в DevComponents.DotNetBar.PopupItemControl.WndProc(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   в System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   в System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+
+************** Загруженные сборки **************
+mscorlib
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.18051 built by: FX45RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.NET/Framework/v4.0.30319/mscorlib.dll
+----------------------------------------
+TickNetClient
+    Версия сборки: 1.0.0.17
+    Версия Win32: 1.0.0.17
+    CodeBase: file:///C:/Work/DATA%20ADMIN%20FULL%20SVN/trunk/TickNetClient/bin/Debug/TickNetClient.exe
+----------------------------------------
+System.Windows.Forms
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.18046 built by: FX45RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Windows.Forms/v4.0_4.0.0.0__b77a5c561934e089/System.Windows.Forms.dll
+----------------------------------------
+System.Drawing
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.18022 built by: FX45RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Drawing/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Drawing.dll
+----------------------------------------
+System
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.18045 built by: FX45RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System/v4.0_4.0.0.0__b77a5c561934e089/System.dll
+----------------------------------------
+DevComponents.DotNetBar2
+    Версия сборки: 11.3.0.4
+    Версия Win32: 11.3.0.4
+    CodeBase: file:///C:/Windows/assembly/GAC_MSIL/DevComponents.DotNetBar2/11.3.0.4__7eb7c3a35b91de04/DevComponents.DotNetBar2.dll
+----------------------------------------
+System.Configuration
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.18058 built by: FX45RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Configuration/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Configuration.dll
+----------------------------------------
+System.Xml
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.18058 built by: FX45RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Xml/v4.0_4.0.0.0__b77a5c561934e089/System.Xml.dll
+----------------------------------------
+Accessibility
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.17929 built by: FX45RTMREL
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/Accessibility/v4.0_4.0.0.0__b03f5f7f11d50a3a/Accessibility.dll
+----------------------------------------
+System.Windows.Forms.resources
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.18010 built by: FX45RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Windows.Forms.resources/v4.0_4.0.0.0_ru_b77a5c561934e089/System.Windows.Forms.resources.dll
+----------------------------------------
+System.Data
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.18046 built by: FX45RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_32/System.Data/v4.0_4.0.0.0__b77a5c561934e089/System.Data.dll
+----------------------------------------
+System.Core
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.17929 built by: FX45RTMREL
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Core/v4.0_4.0.0.0__b77a5c561934e089/System.Core.dll
+----------------------------------------
+DataAdminCommonLib
+    Версия сборки: 1.0.0.1
+    Версия Win32: 1.0.0.1
+    CodeBase: file:///C:/Work/DATA%20ADMIN%20FULL%20SVN/trunk/TickNetClient/bin/Debug/DataAdminCommonLib.DLL
+----------------------------------------
+Scs
+    Версия сборки: 1.1.0.1
+    Версия Win32: 1.1.0.1
+    CodeBase: file:///C:/Work/DATA%20ADMIN%20FULL%20SVN/trunk/TickNetClient/bin/Debug/Scs.DLL
+----------------------------------------
+MySql.Data
+    Версия сборки: 6.6.5.0
+    Версия Win32: 6.6.5.0
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/MySql.Data/v4.0_6.6.5.0__c5687fc88969c44d/MySql.Data.dll
+----------------------------------------
+System.Transactions
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.17929 built by: FX45RTMREL
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_32/System.Transactions/v4.0_4.0.0.0__b77a5c561934e089/System.Transactions.dll
+----------------------------------------
+System.EnterpriseServices
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.17929 built by: FX45RTMREL
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_32/System.EnterpriseServices/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.EnterpriseServices.dll
+----------------------------------------
+System.Management
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.17929 built by: FX45RTMREL
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Management/v4.0_4.0.0.0__b03f5f7f11d50a3a/System.Management.dll
+----------------------------------------
+System.Data.resources
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.18010 built by: FX45RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/System.Data.resources/v4.0_4.0.0.0_ru_b77a5c561934e089/System.Data.resources.dll
+----------------------------------------
+mscorlib.resources
+    Версия сборки: 4.0.0.0
+    Версия Win32: 4.0.30319.18010 built by: FX45RTMGDR
+    CodeBase: file:///C:/Windows/Microsoft.Net/assembly/GAC_MSIL/mscorlib.resources/v4.0_4.0.0.0_ru_b77a5c561934e089/mscorlib.resources.dll
+----------------------------------------
+
+************** Оперативная отладка (JIT) **************
+Для подключения оперативной (JIT) отладки файл .config данного
+приложения или компьютера (machine.config) должен иметь
+значение jitDebugging, установленное в секции system.windows.forms.
+Приложение также должно быть скомпилировано с включенной
+отладкой.
+
+Например:
+
+<configuration>
+    <system.windows.forms jitDebugging="true" />
+</configuration>
+
+При включенной отладке JIT любое необрабатываемое исключение
+пересылается отладчику JIT, зарегистрированному на данном компьютере,
+вместо того чтобы обрабатываться данным диалоговым окном.
+
+

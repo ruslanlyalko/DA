@@ -1,0 +1,82 @@
+02.01 12:49:34 | Application Start | Information
+02.01 12:49:54 | Application Start | Information
+02.01 12:50:06 | Application Start | Information
+02.01 12:50:07 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+02.01 12:53:40 | Application Start | Information
+02.01 12:54:13 |    Start missing bar for symbol: F.US.QOZ14 | Information
+02.01 12:54:15 |    Finished missing bar for symbol: F.US.QOZ14 | Information
+02.01 12:55:03 |    Start missing bar for symbol: F.US.DDZ13 | Information
+02.01 12:55:24 |    Finished missing bar for symbol: F.US.DDZ13 | Information
+02.01 12:57:23 | Application Start | Information
+02.01 12:57:36 |    Start missing bar for symbol: F.US.QOS1G14 | Information
+02.01 12:57:40 |    Finished missing bar for symbol: F.US.QOS1G14 | Information
+02.01 12:58:15 |  Collecting stoped!!! | Warning
+02.01 12:58:45 |    Start missing bar for symbol: F.US.QOS1G14 | Information
+02.01 12:58:51 |    Finished missing bar for symbol: F.US.QOS1G14 | Information
+02.01 12:59:06 |  Collecting stoped!!! | Warning
+02.01 13:00:09 | Application Start | Information
+02.01 13:00:18 |    Start missing bar for symbol: F.US.QOF14 | Information
+02.01 13:00:18 |    Start missing bar for symbol: F.US.QOS1G14 | Information
+02.01 13:00:20 |    Finished missing bar for symbol: F.US.QOF14 | Information
+02.01 13:00:20 |    Finished missing bar for symbol: F.US.QOS1G14 | Information
+02.01 13:00:24 |    Start missing bar for symbol: F.US.QOZ14 | Information
+02.01 13:00:24 |    Start missing bar for symbol: F.US.QOF14 | Information
+02.01 13:00:24 |    Start missing bar for symbol: F.US.DDZ13 | Information
+02.01 13:00:24 |    Start missing bar for symbol: F.US.QOS1G14 | Information
+02.01 13:00:45 |    Finished missing bar for symbol: F.US.QOZ14 | Information
+02.01 13:00:45 |    Finished missing bar for symbol: F.US.QOF14 | Information
+02.01 13:00:45 |    Finished missing bar for symbol: F.US.DDZ13 | Information
+02.01 13:00:45 |    Finished missing bar for symbol: F.US.QOS1G14 | Information
+02.01 13:04:10 |  Collecting stoped!!! | Warning
+02.01 13:12:56 | Application Start | Information
+02.01 13:15:15 |   Collecting start for group: 2m_group | Information
+02.01 13:15:17 |      Symbol 'F.US.DDZ13' collected | Information
+02.01 13:15:18 |      Symbol 'F.US.QOS1G14' collected | Information
+02.01 13:15:23 |      Symbol 'F.US.QOZ14' collected | Information
+02.01 13:15:23 |      Symbol 'F.US.QOF14' collected | Information
+02.01 13:15:23 |   Collecting finished for group: 2m_group | Information
+02.01 13:16:26 | Application Start | Information
+02.01 13:16:39 |   Collecting start for group: 2m_group | Information
+02.01 13:16:41 |      Symbol 'F.US.DDZ13' collected | Information
+02.01 13:16:45 |      Symbol 'F.US.QOS1G14' collected | Information
+02.01 13:16:49 |      Symbol 'F.US.QOZ14' collected | Information
+02.01 13:16:49 |      Symbol 'F.US.QOF14' collected | Information
+02.01 13:16:49 |   Collecting finished for group: 2m_group | Information
+02.01 13:19:35 |   Collecting start for group: 2m_group | Information
+02.01 13:19:38 |      Symbol 'F.US.DDZ13' collected | Information
+02.01 13:19:44 |      Symbol 'F.US.QOS1G14' collected | Information
+02.01 13:19:48 |      Symbol 'F.US.QOZ14' collected | Information
+02.01 13:19:51 |      Symbol 'F.US.QOF14' collected | Information
+02.01 13:19:51 |   Collecting finished for group: 2m_group | Information
+02.01 13:20:23 |   Collecting start for group: ddz_1m | Information
+02.01 13:20:23 |      Symbol 'F.US.DDZ13' collected | Information
+02.01 13:20:23 |   Collecting finished for group: ddz_1m | Information
+02.01 13:20:42 |   Collecting start for group: 2m_group | Information
+02.01 13:20:44 |      Symbol 'F.US.DDZ13' collected | Information
+02.01 13:20:47 |      Symbol 'F.US.QOS1G14' collected | Information
+02.01 13:20:49 |      Symbol 'F.US.QOZ14' collected | Information
+02.01 13:20:49 |      Symbol 'F.US.QOF14' collected | Information
+02.01 13:20:50 |   Collecting finished for group: 2m_group | Information
+02.01 13:23:26 | Application Start | Information
+02.01 13:25:06 | Application Start | Information
+02.01 13:25:15 |      Symbol 'F.US.DDZ13' collected | Information
+02.01 13:25:17 |      Symbol 'F.US.QOS1G14' collected | Information
+02.01 13:29:13 | Application Start | Information
+02.01 13:29:20 |  Start collecting symbols from list [2] | Information
+02.01 13:29:21 |      Symbol 'F.US.DDZ13' collected | Information
+02.01 13:29:23 |      Symbol 'F.US.QOS1G14' collected | Information
+02.01 13:31:24 | Application Start | Information
+02.01 13:31:29 |  Start collecting symbols from list [2] | Information
+02.01 13:31:30 |      Symbol 'F.US.DDZ13' collected | Information
+02.01 13:31:33 |      Symbol 'F.US.QOS1G14' collected | Information
+02.01 13:31:37 |   Collecting start for group: 2m_group | Information
+02.01 13:31:37 |      Symbol 'F.US.DDZ13' collected | Information
+02.01 13:31:40 |      Symbol 'F.US.QOS1G14' collected | Information
+02.01 13:31:42 |      Symbol 'F.US.QOZ14' collected | Information
+02.01 13:31:42 |      Symbol 'F.US.QOF14' collected | Information
+02.01 13:31:43 |   Collecting finished for group: 2m_group | Information
+02.01 13:31:51 |   Collecting start for group: ddz_1m | Information
+02.01 13:31:51 |      Symbol 'F.US.DDZ13' collected | Information
+02.01 13:31:51 |   Collecting finished for group: ddz_1m | Information

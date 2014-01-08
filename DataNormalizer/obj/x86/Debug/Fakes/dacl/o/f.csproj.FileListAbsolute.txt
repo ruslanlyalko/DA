@@ -1,0 +1,10 @@
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\DataAdminCommonLib.Fakes.xml
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\DataAdminCommonLib.Fakes.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\DataAdminCommonLib.Fakes.pdb
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\DataAdminCommonLib.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\Scs.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\DataAdminCommonLib.pdb
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\o\f.csprojResolveAssemblyReference.cache
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\o\DataAdminCommonLib.Fakes.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\o\DataAdminCommonLib.Fakes.pdb

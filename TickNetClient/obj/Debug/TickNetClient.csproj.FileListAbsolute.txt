@@ -1,0 +1,66 @@
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\bin\Debug\TickNetClient.exe.config
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\bin\Debug\TickNetClient.exe
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\bin\Debug\TickNetClient.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\bin\Debug\DataAdminCommonLib.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\bin\Debug\MySql.Data.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\bin\Debug\Scs.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\bin\Debug\DataAdminCommonLib.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\obj\Debug\TickNetClient.csprojResolveAssemblyReference.cache
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\obj\Debug\Interop.CQG.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\obj\Debug\TickNetClient.csproj.ResolveComReference.cache
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\obj\Debug\TickNetClient.Forms.AddListControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\obj\Debug\TickNetClient.Forms.EditListControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\obj\Debug\TickNetClient.Forms.FormMain.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\obj\Debug\TickNetClient.Forms.FormSettings.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\obj\Debug\TickNetClient.Forms.StartControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\obj\Debug\TickNetClient.Forms.SymbolsEditControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\obj\Debug\TickNetClient.Properties.Resources.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\obj\Debug\TickNetClient.csproj.GenerateResource.Cache
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\obj\Debug\TickNetClient.exe
+C:\Work\DATA ADMIN FULL SVN\trunk\TickNetClient\obj\Debug\TickNetClient.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\bin\Debug\TickNetClient.exe.config
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\obj\Debug\Interop.CQG.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\obj\Debug\TickNetClient.csproj.ResolveComReference.cache
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\bin\Debug\TickNetClient.exe
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\bin\Debug\TickNetClient.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\bin\Debug\DataAdminCommonLib.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\bin\Debug\DevComponents.DotNetBar2.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\bin\Debug\MySql.Data.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\bin\Debug\Scs.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\bin\Debug\DataAdminCommonLib.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\bin\Debug\DevComponents.DotNetBar2.xml
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\obj\Debug\TickNetClient.csprojResolveAssemblyReference.cache
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\obj\Debug\TickNetClient.Forms.AddListControl.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\obj\Debug\TickNetClient.Forms.EditListControl.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\obj\Debug\TickNetClient.Forms.FormMain.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\obj\Debug\TickNetClient.Forms.FormSettings.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\obj\Debug\TickNetClient.Forms.StartControl.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\obj\Debug\TickNetClient.Forms.SymbolsEditControl.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\obj\Debug\TickNetClient.Properties.Resources.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\obj\Debug\TickNetClient.csproj.GenerateResource.Cache
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\obj\Debug\TickNetClient.exe
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\TickNetClient\obj\Debug\TickNetClient.pdb
+C:\Users\rusla_000\Documents\da\TickNetClient\bin\Debug\TickNetClient.exe.config
+C:\Users\rusla_000\Documents\da\TickNetClient\bin\Debug\TickNetClient.exe
+C:\Users\rusla_000\Documents\da\TickNetClient\bin\Debug\TickNetClient.pdb
+C:\Users\rusla_000\Documents\da\TickNetClient\bin\Debug\DataAdminCommonLib.dll
+C:\Users\rusla_000\Documents\da\TickNetClient\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\rusla_000\Documents\da\TickNetClient\bin\Debug\MySql.Data.dll
+C:\Users\rusla_000\Documents\da\TickNetClient\bin\Debug\Scs.dll
+C:\Users\rusla_000\Documents\da\TickNetClient\bin\Debug\DataAdminCommonLib.pdb
+C:\Users\rusla_000\Documents\da\TickNetClient\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\rusla_000\Documents\da\TickNetClient\obj\Debug\TickNetClient.csprojResolveAssemblyReference.cache
+C:\Users\rusla_000\Documents\da\TickNetClient\obj\Debug\Interop.CQG.dll
+C:\Users\rusla_000\Documents\da\TickNetClient\obj\Debug\TickNetClient.csproj.ResolveComReference.cache
+C:\Users\rusla_000\Documents\da\TickNetClient\obj\Debug\TickNetClient.Forms.AddListControl.resources
+C:\Users\rusla_000\Documents\da\TickNetClient\obj\Debug\TickNetClient.Forms.EditListControl.resources
+C:\Users\rusla_000\Documents\da\TickNetClient\obj\Debug\TickNetClient.Forms.FormMain.resources
+C:\Users\rusla_000\Documents\da\TickNetClient\obj\Debug\TickNetClient.Forms.FormSettings.resources
+C:\Users\rusla_000\Documents\da\TickNetClient\obj\Debug\TickNetClient.Forms.StartControl.resources
+C:\Users\rusla_000\Documents\da\TickNetClient\obj\Debug\TickNetClient.Forms.SymbolsEditControl.resources
+C:\Users\rusla_000\Documents\da\TickNetClient\obj\Debug\TickNetClient.Properties.Resources.resources
+C:\Users\rusla_000\Documents\da\TickNetClient\obj\Debug\TickNetClient.csproj.GenerateResource.Cache
+C:\Users\rusla_000\Documents\da\TickNetClient\obj\Debug\TickNetClient.exe
+C:\Users\rusla_000\Documents\da\TickNetClient\obj\Debug\TickNetClient.pdb

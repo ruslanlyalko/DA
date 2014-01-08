@@ -1,0 +1,56 @@
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\obj\Debug\DataNormalizer.csprojResolveAssemblyReference.cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\obj\Debug\DataNormalizer.Forms.FormMain.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\obj\Debug\DataNormalizer.Forms.StartControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\obj\Debug\DataNormalizer.Properties.Resources.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\obj\Debug\DataNormalizer.csproj.GenerateResource.Cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\Debug\DataNormalizer.exe.config
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\Debug\DataNormalizer.exe
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\Debug\DataNormalizer.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\Debug\DataAdminCommonLib.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\Debug\MySql.Data.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\Debug\Scs.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\Debug\DataAdminCommonLib.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\obj\Debug\DataNormalizer.exe
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\obj\Debug\DataNormalizer.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\DataNormalizer.csprojFakesResolveAssemblyReference.cache
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\DataNormalizer.Forms.FormMain.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\DataNormalizer.Forms.StartControl.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\DataNormalizer.Properties.Resources.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\DataNormalizer.csproj.GenerateResource.Cache
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\bin\Debug\DataNormalizer.exe.config
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\bin\Debug\DataNormalizer.exe
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\bin\Debug\DataNormalizer.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\bin\Debug\DataAdminCommonLib.Fakes.fakesconfig
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\bin\Debug\DataAdminCommonLib.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\bin\Debug\DevComponents.DotNetBar2.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\bin\Debug\DevComponents.Instrumentation.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\bin\Debug\Scs.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\bin\Debug\DataAdminCommonLib.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\bin\Debug\DevComponents.DotNetBar2.xml
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\bin\Debug\DevComponents.Instrumentation.xml
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\DataAdminCommonLib.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\DataAdminCommonLib.Fakes.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\DataAdminCommonLib.Fakes.fakesconfig
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\DataAdminCommonLib.Fakes.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\DataAdminCommonLib.Fakes.xml
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\DataAdminCommonLib.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\Scs.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\f.ah
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\f.ch
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\f.cs
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\f.csproj
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\f.fakes
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\f.fakesconfig
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\o\DataAdminCommonLib.Fakes.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\o\DataAdminCommonLib.Fakes.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\o\f.csproj.FileListAbsolute.txt
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\o\f.csprojResolveAssemblyReference.cache
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\fakes.args
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\DataNormalizer.exe
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\DataNormalizer.pdb

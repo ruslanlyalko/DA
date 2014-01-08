@@ -1,0 +1,64 @@
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\DataExport.exe.config
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\DataExport.exe
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\DataExport.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\DataAdminCommonLib.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\DevComponents.Instrumentation.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\EPPlus.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\MySql.Data.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\NCalc.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\Scs.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\DataAdminCommonLib.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\bin\Debug\DevComponents.Instrumentation.xml
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.csprojResolveAssemblyReference.cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.csproj.ResolveComReference.cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.Controls.DaysSelectorControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.Controls.ElementContainerControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.Controls.ElementControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.Controls.FormulaControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.Controls.TitleControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.Forms.FormExistingsFormulas.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.Forms.CustomFormulaControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.Forms.FormMain.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.Forms.FormNewProfile.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.Forms.ScheduleJobControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.Forms.StartControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.Properties.Resources.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.csproj.GenerateResource.Cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.exe
+C:\Work\DATA ADMIN FULL SVN\trunk\DataExport\obj\Debug\DataExport.pdb
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.csprojResolveAssemblyReference.cache
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.csproj.ResolveComReference.cache
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.Controls.DaysSelectorControl.resources
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.Controls.ElementContainerControl.resources
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.Controls.ElementControl.resources
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.Controls.FormulaControl.resources
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.Controls.TitleControl.resources
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.Forms.FormExistingsFormulas.resources
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.Forms.CustomFormulaControl.resources
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.Forms.FormMain.resources
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.Forms.FormNewProfile.resources
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.Forms.ScheduleJobControl.resources
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.Forms.StartControl.resources
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.Properties.Resources.resources
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.csproj.GenerateResource.Cache
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\DataExport.exe.config
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\DataExport.exe
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\DataExport.pdb
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\DataAdminCommonLib.dll
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\EPPlus.dll
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\MySql.Data.dll
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\NCalc.dll
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\Scs.dll
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\DataAdminCommonLib.pdb
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\rusla_000\Documents\da\DataExport\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.exe
+C:\Users\rusla_000\Documents\da\DataExport\obj\Debug\DataExport.pdb

@@ -1,0 +1,106 @@
+C:\Work\trunk\DataNormalizer\bin\x86\Debug\DataNormalizer.exe.config
+C:\Work\trunk\DataNormalizer\bin\x86\Debug\DataNormalizer.exe
+C:\Work\trunk\DataNormalizer\bin\x86\Debug\DataNormalizer.pdb
+C:\Work\trunk\DataNormalizer\bin\x86\Debug\DataAdminCommonLib.dll
+C:\Work\trunk\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Work\trunk\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar2.dll
+C:\Work\trunk\DataNormalizer\bin\x86\Debug\MySql.Data.dll
+C:\Work\trunk\DataNormalizer\bin\x86\Debug\Scs.dll
+C:\Work\trunk\DataNormalizer\bin\x86\Debug\DataAdminCommonLib.pdb
+C:\Work\trunk\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Work\trunk\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar2.xml
+C:\Work\trunk\DataNormalizer\obj\x86\Debug\DataNormalizer.csprojResolveAssemblyReference.cache
+C:\Work\trunk\DataNormalizer\obj\x86\Debug\DataNormalizer.Forms.FormMain.resources
+C:\Work\trunk\DataNormalizer\obj\x86\Debug\DataNormalizer.Forms.StartControl.resources
+C:\Work\trunk\DataNormalizer\obj\x86\Debug\DataNormalizer.Properties.Resources.resources
+C:\Work\trunk\DataNormalizer\obj\x86\Debug\DataNormalizer.csproj.GenerateResource.Cache
+C:\Work\trunk\DataNormalizer\obj\x86\Debug\DataNormalizer.exe
+C:\Work\trunk\DataNormalizer\obj\x86\Debug\DataNormalizer.pdb
+F:\TempAdmin\DataNormalizer\bin\x86\Debug\DataNormalizer.exe.config
+F:\TempAdmin\DataNormalizer\obj\x86\Debug\DataNormalizer.exe
+F:\TempAdmin\DataNormalizer\obj\x86\Debug\DataNormalizer.pdb
+F:\TempAdmin\DataNormalizer\obj\x86\Debug\DataNormalizer.csprojResolveAssemblyReference.cache
+F:\TempAdmin\DataNormalizer\obj\x86\Debug\DataNormalizer.Forms.FormMain.resources
+F:\TempAdmin\DataNormalizer\obj\x86\Debug\DataNormalizer.Forms.StartControl.resources
+F:\TempAdmin\DataNormalizer\obj\x86\Debug\DataNormalizer.Properties.Resources.resources
+F:\TempAdmin\DataNormalizer\obj\x86\Debug\DataNormalizer.csproj.GenerateResource.Cache
+C:\Work\trunk\Temp\DataNormalizer\bin\x86\Debug\DataNormalizer.exe.config
+C:\Work\trunk\Temp\DataNormalizer\obj\x86\Debug\DataNormalizer.exe
+C:\Work\trunk\Temp\DataNormalizer\obj\x86\Debug\DataNormalizer.pdb
+C:\Work\trunk\Temp\DataNormalizer\bin\x86\Debug\DataNormalizer.exe
+C:\Work\trunk\Temp\DataNormalizer\bin\x86\Debug\DataNormalizer.pdb
+C:\Work\trunk\Temp\DataNormalizer\bin\x86\Debug\DataAdminCommonLib.dll
+C:\Work\trunk\Temp\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Work\trunk\Temp\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar2.dll
+C:\Work\trunk\Temp\DataNormalizer\bin\x86\Debug\MySql.Data.dll
+C:\Work\trunk\Temp\DataNormalizer\bin\x86\Debug\Scs.dll
+C:\Work\trunk\Temp\DataNormalizer\bin\x86\Debug\DataAdminCommonLib.pdb
+C:\Work\trunk\Temp\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Work\trunk\Temp\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar2.xml
+C:\Work\trunk\Temp\DataNormalizer\obj\x86\Debug\DataNormalizer.csprojResolveAssemblyReference.cache
+C:\Work\trunk\Temp\DataNormalizer\obj\x86\Debug\DataNormalizer.Forms.FormMain.resources
+C:\Work\trunk\Temp\DataNormalizer\obj\x86\Debug\DataNormalizer.Forms.StartControl.resources
+C:\Work\trunk\Temp\DataNormalizer\obj\x86\Debug\DataNormalizer.Properties.Resources.resources
+C:\Work\trunk\Temp\DataNormalizer\obj\x86\Debug\DataNormalizer.csproj.GenerateResource.Cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\obj\x86\Debug\DataNormalizer.csprojResolveAssemblyReference.cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\obj\x86\Debug\DataNormalizer.Forms.FormMain.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\obj\x86\Debug\DataNormalizer.Forms.StartControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\obj\x86\Debug\DataNormalizer.Properties.Resources.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\obj\x86\Debug\DataNormalizer.csproj.GenerateResource.Cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\x86\Debug\DataNormalizer.exe.config
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\x86\Debug\DataNormalizer.exe
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\x86\Debug\DataNormalizer.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\x86\Debug\DataAdminCommonLib.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar2.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\x86\Debug\DevComponents.Instrumentation.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\x86\Debug\MySql.Data.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\x86\Debug\Scs.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\x86\Debug\DataAdminCommonLib.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar2.xml
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\bin\x86\Debug\DevComponents.Instrumentation.xml
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\obj\x86\Debug\DataNormalizer.exe
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNormalizer\obj\x86\Debug\DataNormalizer.pdb
+C:\Work\DA temp (port 446)\DataNormalizer\bin\x86\Debug\DataNormalizer.exe.config
+C:\Work\DA temp (port 446)\DataNormalizer\obj\x86\Debug\DataNormalizer.exe
+C:\Work\DA temp (port 446)\DataNormalizer\obj\x86\Debug\DataNormalizer.pdb
+C:\Users\rusla_000\Documents\da\DataNormalizer\bin\x86\Debug\DataNormalizer.exe.config
+C:\Users\rusla_000\Documents\da\DataNormalizer\bin\x86\Debug\DataNormalizer.exe
+C:\Users\rusla_000\Documents\da\DataNormalizer\bin\x86\Debug\DataNormalizer.pdb
+C:\Users\rusla_000\Documents\da\DataNormalizer\bin\x86\Debug\DataAdminCommonLib.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar2.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\bin\x86\Debug\DevComponents.Instrumentation.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\bin\x86\Debug\Scs.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\bin\x86\Debug\DataAdminCommonLib.pdb
+C:\Users\rusla_000\Documents\da\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\rusla_000\Documents\da\DataNormalizer\bin\x86\Debug\DevComponents.DotNetBar2.xml
+C:\Users\rusla_000\Documents\da\DataNormalizer\bin\x86\Debug\DevComponents.Instrumentation.xml
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\DataNormalizer.csprojFakesResolveAssemblyReference.cache
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\DataNormalizer.Forms.FormMain.resources
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\DataNormalizer.Forms.StartControl.resources
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\DataNormalizer.Properties.Resources.resources
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\DataNormalizer.csproj.GenerateResource.Cache
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\DataNormalizer.exe
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\DataNormalizer.pdb
+C:\Users\rusla_000\Documents\da\DataNormalizer\bin\x86\Debug\DataAdminCommonLib.Fakes.fakesconfig
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\DataAdminCommonLib.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\DataAdminCommonLib.Fakes.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\DataAdminCommonLib.Fakes.fakesconfig
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\DataAdminCommonLib.Fakes.pdb
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\DataAdminCommonLib.Fakes.xml
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\DataAdminCommonLib.pdb
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\b\Scs.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\f.ah
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\f.ch
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\f.cs
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\f.csproj
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\f.fakes
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\f.fakesconfig
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\o\DataAdminCommonLib.Fakes.dll
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\o\DataAdminCommonLib.Fakes.pdb
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\o\f.csproj.FileListAbsolute.txt
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\dacl\o\f.csprojResolveAssemblyReference.cache
+C:\Users\rusla_000\Documents\da\DataNormalizer\obj\x86\Debug\Fakes\fakes.args

@@ -1,0 +1,88 @@
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\bin\Debug\DataAdmin.exe
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\bin\Debug\DataAdmin.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\bin\Debug\DataAdminCommonLib.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\bin\Debug\MySql.Data.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\bin\Debug\Scs.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\bin\Debug\DevComponents.Instrumentation.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\bin\Debug\DataAdminCommonLib.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\bin\Debug\DevComponents.Instrumentation.xml
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.csprojResolveAssemblyReference.cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\Interop.CQG.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.csproj.ResolveComReference.cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.Forms.AddUserControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.Forms.ControlAddList.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.Forms.EditListControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.Forms.EditUserControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.Forms.FormSymbolAdd.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.Forms.FormSymbolEdit.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.Forms.FormMain.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.Forms.FormSettings.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.Forms.TimeSliceControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.Forms.StartControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.Properties.Resources.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.csproj.GenerateResource.Cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.exe
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\obj\Debug\DataAdmin.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdmin\bin\Debug\DataAdmin.exe.config
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\bin\Debug\DataAdmin.exe.config
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\bin\Debug\DataAdmin.exe
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\bin\Debug\DataAdmin.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\bin\Debug\DataAdminCommonLib.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\bin\Debug\DevComponents.DotNetBar2.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\bin\Debug\DevComponents.Instrumentation.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\bin\Debug\Scs.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\bin\Debug\DataAdminCommonLib.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\bin\Debug\DevComponents.DotNetBar2.xml
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\bin\Debug\DevComponents.Instrumentation.xml
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.csprojResolveAssemblyReference.cache
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\Interop.CQG.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.csproj.ResolveComReference.cache
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.Forms.AddUserControl.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.Forms.ControlAddList.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.Forms.EditListControl.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.Forms.EditUserControl.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.Forms.FormSymbolAdd.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.Forms.FormSymbolEdit.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.Forms.FormMain.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.Forms.FormSettings.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.Forms.TimeSliceControl.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.Forms.StartControl.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.Properties.Resources.resources
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.csproj.GenerateResource.Cache
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.exe
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdmin\obj\Debug\DataAdmin.pdb
+C:\Users\rusla_000\Documents\da\DataAdmin\bin\Debug\DataAdmin.exe.config
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\Interop.CQG.dll
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.csproj.ResolveComReference.cache
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.exe
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.pdb
+C:\Users\rusla_000\Documents\da\DataAdmin\bin\Debug\DataAdmin.exe
+C:\Users\rusla_000\Documents\da\DataAdmin\bin\Debug\DataAdmin.pdb
+C:\Users\rusla_000\Documents\da\DataAdmin\bin\Debug\DataAdminCommonLib.dll
+C:\Users\rusla_000\Documents\da\DataAdmin\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\rusla_000\Documents\da\DataAdmin\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\rusla_000\Documents\da\DataAdmin\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\rusla_000\Documents\da\DataAdmin\bin\Debug\Scs.dll
+C:\Users\rusla_000\Documents\da\DataAdmin\bin\Debug\DataAdminCommonLib.pdb
+C:\Users\rusla_000\Documents\da\DataAdmin\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\rusla_000\Documents\da\DataAdmin\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\rusla_000\Documents\da\DataAdmin\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.csprojResolveAssemblyReference.cache
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.Forms.AddUserControl.resources
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.Forms.ControlAddList.resources
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.Forms.EditListControl.resources
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.Forms.EditUserControl.resources
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.Forms.FormSymbolAdd.resources
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.Forms.FormSymbolEdit.resources
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.Forms.FormMain.resources
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.Forms.FormSettings.resources
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.Forms.TimeSliceControl.resources
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.Forms.StartControl.resources
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.Properties.Resources.resources
+C:\Users\rusla_000\Documents\da\DataAdmin\obj\Debug\DataAdmin.csproj.GenerateResource.Cache

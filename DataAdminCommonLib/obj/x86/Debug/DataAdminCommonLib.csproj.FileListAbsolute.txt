@@ -1,0 +1,27 @@
+F:\TempAdmin\DataAdminCommonLib\bin\x86\Debug\DataAdminCommonLib.dll
+F:\TempAdmin\DataAdminCommonLib\bin\x86\Debug\DataAdminCommonLib.pdb
+F:\TempAdmin\DataAdminCommonLib\bin\x86\Debug\MySql.Data.dll
+F:\TempAdmin\DataAdminCommonLib\bin\x86\Debug\Scs.dll
+F:\TempAdmin\DataAdminCommonLib\obj\x86\Debug\DataAdminCommonLib.csprojResolveAssemblyReference.cache
+F:\TempAdmin\DataAdminCommonLib\obj\x86\Debug\DataAdminCommonLib.dll
+F:\TempAdmin\DataAdminCommonLib\obj\x86\Debug\DataAdminCommonLib.pdb
+C:\Work\trunk\DataAdminCommonLib\bin\x86\Debug\DataAdminCommonLib.dll
+C:\Work\trunk\DataAdminCommonLib\bin\x86\Debug\DataAdminCommonLib.pdb
+C:\Work\trunk\DataAdminCommonLib\bin\x86\Debug\MySql.Data.dll
+C:\Work\trunk\DataAdminCommonLib\bin\x86\Debug\Scs.dll
+C:\Work\trunk\DataAdminCommonLib\obj\x86\Debug\DataAdminCommonLib.csprojResolveAssemblyReference.cache
+C:\Work\trunk\DataAdminCommonLib\obj\x86\Debug\DataAdminCommonLib.dll
+C:\Work\trunk\DataAdminCommonLib\obj\x86\Debug\DataAdminCommonLib.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdminCommonLib\bin\x86\Debug\DataAdminCommonLib.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdminCommonLib\bin\x86\Debug\DataAdminCommonLib.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdminCommonLib\bin\x86\Debug\MySql.Data.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdminCommonLib\bin\x86\Debug\Scs.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdminCommonLib\obj\x86\Debug\DataAdminCommonLib.csprojResolveAssemblyReference.cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdminCommonLib\obj\x86\Debug\DataAdminCommonLib.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdminCommonLib\obj\x86\Debug\DataAdminCommonLib.pdb
+C:\Users\rusla_000\Documents\da\DataAdminCommonLib\bin\x86\Debug\DataAdminCommonLib.dll
+C:\Users\rusla_000\Documents\da\DataAdminCommonLib\bin\x86\Debug\DataAdminCommonLib.pdb
+C:\Users\rusla_000\Documents\da\DataAdminCommonLib\bin\x86\Debug\Scs.dll
+C:\Users\rusla_000\Documents\da\DataAdminCommonLib\obj\x86\Debug\DataAdminCommonLib.csprojResolveAssemblyReference.cache
+C:\Users\rusla_000\Documents\da\DataAdminCommonLib\obj\x86\Debug\DataAdminCommonLib.dll
+C:\Users\rusla_000\Documents\da\DataAdminCommonLib\obj\x86\Debug\DataAdminCommonLib.pdb

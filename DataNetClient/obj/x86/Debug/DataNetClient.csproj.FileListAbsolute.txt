@@ -1,0 +1,127 @@
+C:\Work\trunk\DataNetClient\bin\Debug\DataNetClient.exe.config
+C:\Work\trunk\DataNetClient\bin\Debug\DataNetClient.exe
+C:\Work\trunk\DataNetClient\bin\Debug\DataNetClient.pdb
+C:\Work\trunk\DataNetClient\bin\Debug\DataAdminCommonLib.dll
+C:\Work\trunk\DataNetClient\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Work\trunk\DataNetClient\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Work\trunk\DataNetClient\bin\Debug\MySql.Data.dll
+C:\Work\trunk\DataNetClient\bin\Debug\Scs.dll
+C:\Work\trunk\DataNetClient\bin\Debug\DataAdminCommonLib.pdb
+C:\Work\trunk\DataNetClient\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Work\trunk\DataNetClient\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Work\trunk\DataNetClient\obj\x86\Debug\DataNetClient.csprojResolveAssemblyReference.cache
+C:\Work\trunk\DataNetClient\obj\x86\Debug\Interop.CQG.dll
+C:\Work\trunk\DataNetClient\obj\x86\Debug\DataNetClient.csproj.ResolveComReference.cache
+C:\Work\trunk\DataNetClient\obj\x86\Debug\DataNetClient.Forms.AddListControl.resources
+C:\Work\trunk\DataNetClient\obj\x86\Debug\DataNetClient.Forms.SymbolsEditControl.resources
+C:\Work\trunk\DataNetClient\obj\x86\Debug\DataNetClient.Forms.EditListControl.resources
+C:\Work\trunk\DataNetClient\obj\x86\Debug\DataNetClient.Forms.FormMain.resources
+C:\Work\trunk\DataNetClient\obj\x86\Debug\DataNetClient.Forms.FormSettings.resources
+C:\Work\trunk\DataNetClient\obj\x86\Debug\DataNetClient.Properties.Resources.resources
+C:\Work\trunk\DataNetClient\obj\x86\Debug\DataNetClient.Forms.StartControl.resources
+C:\Work\trunk\DataNetClient\obj\x86\Debug\DataNetClient.csproj.GenerateResource.Cache
+C:\Work\trunk\DataNetClient\obj\x86\Debug\DataNetClient.exe
+C:\Work\trunk\DataNetClient\obj\x86\Debug\DataNetClient.pdb
+C:\Work\trunk\Temp\DataNetClient\bin\Debug\DataNetClient.exe.config
+C:\Work\trunk\Temp\DataNetClient\bin\Debug\DataNetClient.exe
+C:\Work\trunk\Temp\DataNetClient\bin\Debug\DataNetClient.pdb
+C:\Work\trunk\Temp\DataNetClient\bin\Debug\DataAdminCommonLib.dll
+C:\Work\trunk\Temp\DataNetClient\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Work\trunk\Temp\DataNetClient\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Work\trunk\Temp\DataNetClient\bin\Debug\MySql.Data.dll
+C:\Work\trunk\Temp\DataNetClient\bin\Debug\Scs.dll
+C:\Work\trunk\Temp\DataNetClient\bin\Debug\DataAdminCommonLib.pdb
+C:\Work\trunk\Temp\DataNetClient\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Work\trunk\Temp\DataNetClient\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Work\trunk\Temp\DataNetClient\obj\x86\Debug\DataNetClient.csprojResolveAssemblyReference.cache
+C:\Work\trunk\Temp\DataNetClient\obj\x86\Debug\Interop.CQG.dll
+C:\Work\trunk\Temp\DataNetClient\obj\x86\Debug\DataNetClient.csproj.ResolveComReference.cache
+C:\Work\trunk\Temp\DataNetClient\obj\x86\Debug\DataNetClient.Forms.AddListControl.resources
+C:\Work\trunk\Temp\DataNetClient\obj\x86\Debug\DataNetClient.Forms.SymbolsEditControl.resources
+C:\Work\trunk\Temp\DataNetClient\obj\x86\Debug\DataNetClient.Forms.EditListControl.resources
+C:\Work\trunk\Temp\DataNetClient\obj\x86\Debug\DataNetClient.Forms.FormMain.resources
+C:\Work\trunk\Temp\DataNetClient\obj\x86\Debug\DataNetClient.Forms.FormSettings.resources
+C:\Work\trunk\Temp\DataNetClient\obj\x86\Debug\DataNetClient.Properties.Resources.resources
+C:\Work\trunk\Temp\DataNetClient\obj\x86\Debug\DataNetClient.Forms.StartControl.resources
+C:\Work\trunk\Temp\DataNetClient\obj\x86\Debug\DataNetClient.csproj.GenerateResource.Cache
+C:\Work\trunk\Temp\DataNetClient\obj\x86\Debug\DataNetClient.exe
+C:\Work\trunk\Temp\DataNetClient\obj\x86\Debug\DataNetClient.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\obj\x86\Debug\DataNetClient.csprojResolveAssemblyReference.cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\obj\x86\Debug\Interop.CQG.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\obj\x86\Debug\DataNetClient.csproj.ResolveComReference.cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\obj\x86\Debug\DataNetClient.Forms.AddListControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\obj\x86\Debug\DataNetClient.Forms.SymbolsEditControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\obj\x86\Debug\DataNetClient.Forms.EditListControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\obj\x86\Debug\DataNetClient.Forms.FormMain.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\obj\x86\Debug\DataNetClient.Forms.FormSettings.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\obj\x86\Debug\DataNetClient.Properties.Resources.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\obj\x86\Debug\DataNetClient.Forms.StartControl.resources
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\obj\x86\Debug\DataNetClient.csproj.GenerateResource.Cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\bin\Debug\DataNetClient.exe.config
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\bin\Debug\DataNetClient.exe
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\bin\Debug\DataNetClient.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\bin\Debug\DataAdminCommonLib.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\bin\Debug\MySql.Data.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\bin\Debug\Scs.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\bin\Debug\DataAdminCommonLib.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\obj\x86\Debug\DataNetClient.exe
+C:\Work\DATA ADMIN FULL SVN\trunk\DataNetClient\obj\x86\Debug\DataNetClient.pdb
+C:\Work\DA temp (port 446)\DataNetClient\bin\Debug\DataNetClient.exe.config
+C:\Work\DA temp (port 446)\DataNetClient\bin\Debug\DataNetClient.exe
+C:\Work\DA temp (port 446)\DataNetClient\bin\Debug\DataNetClient.pdb
+C:\Work\DA temp (port 446)\DataNetClient\bin\Debug\DataAdminCommonLib.dll
+C:\Work\DA temp (port 446)\DataNetClient\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Work\DA temp (port 446)\DataNetClient\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Work\DA temp (port 446)\DataNetClient\bin\Debug\MySql.Data.dll
+C:\Work\DA temp (port 446)\DataNetClient\bin\Debug\Scs.dll
+C:\Work\DA temp (port 446)\DataNetClient\bin\Debug\DataAdminCommonLib.pdb
+C:\Work\DA temp (port 446)\DataNetClient\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Work\DA temp (port 446)\DataNetClient\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Work\DA temp (port 446)\DataNetClient\obj\x86\Debug\DataNetClient.csprojResolveAssemblyReference.cache
+C:\Work\DA temp (port 446)\DataNetClient\obj\x86\Debug\Interop.CQG.dll
+C:\Work\DA temp (port 446)\DataNetClient\obj\x86\Debug\DataNetClient.csproj.ResolveComReference.cache
+C:\Work\DA temp (port 446)\DataNetClient\obj\x86\Debug\DataNetClient.Forms.AddListControl.resources
+C:\Work\DA temp (port 446)\DataNetClient\obj\x86\Debug\DataNetClient.Forms.SymbolsEditControl.resources
+C:\Work\DA temp (port 446)\DataNetClient\obj\x86\Debug\DataNetClient.Forms.EditListControl.resources
+C:\Work\DA temp (port 446)\DataNetClient\obj\x86\Debug\DataNetClient.Forms.FormMain.resources
+C:\Work\DA temp (port 446)\DataNetClient\obj\x86\Debug\DataNetClient.Forms.FormSettings.resources
+C:\Work\DA temp (port 446)\DataNetClient\obj\x86\Debug\DataNetClient.Properties.Resources.resources
+C:\Work\DA temp (port 446)\DataNetClient\obj\x86\Debug\DataNetClient.Forms.StartControl.resources
+C:\Work\DA temp (port 446)\DataNetClient\obj\x86\Debug\DataNetClient.csproj.GenerateResource.Cache
+C:\Work\DA temp (port 446)\DataNetClient\obj\x86\Debug\DataNetClient.exe
+C:\Work\DA temp (port 446)\DataNetClient\obj\x86\Debug\DataNetClient.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNetClient\bin\Debug\DataNetClient.exe.config
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNetClient\obj\x86\Debug\Interop.CQG.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNetClient\obj\x86\Debug\DataNetClient.csproj.ResolveComReference.cache
+C:\Users\rusla_000\Documents\da\DataNetClient\bin\Debug\DataNetClient.exe.config
+C:\Users\rusla_000\Documents\da\DataNetClient\bin\Debug\DataNetClient.exe
+C:\Users\rusla_000\Documents\da\DataNetClient\bin\Debug\DataNetClient.pdb
+C:\Users\rusla_000\Documents\da\DataNetClient\bin\Debug\DataAdminCommonLib.dll
+C:\Users\rusla_000\Documents\da\DataNetClient\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\rusla_000\Documents\da\DataNetClient\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\rusla_000\Documents\da\DataNetClient\bin\Debug\MySql.Data.dll
+C:\Users\rusla_000\Documents\da\DataNetClient\bin\Debug\Scs.dll
+C:\Users\rusla_000\Documents\da\DataNetClient\bin\Debug\DataAdminCommonLib.pdb
+C:\Users\rusla_000\Documents\da\DataNetClient\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\rusla_000\Documents\da\DataNetClient\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.csprojResolveAssemblyReference.cache
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\Interop.CQG.dll
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.csproj.ResolveComReference.cache
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Forms.AddListControl.resources
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Forms.SymbolsEditControl.resources
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Forms.EditListControl.resources
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Forms.FormMain.resources
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Forms.FormSettings.resources
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Properties.Resources.resources
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Forms.StartControl.resources
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.csproj.GenerateResource.Cache
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.exe
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.pdb
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Controls.StyledListControl.resources
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Controls.StyledListItemControl.resources
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Controls.StyledLoadAnimation.resources
+C:\Users\rusla_000\Documents\da\DataNetClient\obj\x86\Debug\DataNetClient.Controls.StyledTextBox.resources

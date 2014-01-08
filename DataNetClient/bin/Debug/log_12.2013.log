@@ -1,0 +1,1884 @@
+02.12 14:56:32 | Application Start | Information
+02.12 14:56:32 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+03.12 10:17:33 | Application Start | Information
+03.12 10:17:35 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+03.12 10:19:46 | Application Start | Information
+03.12 10:19:46 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+03.12 11:23:27 | Application Start | Information
+03.12 11:23:29 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+03.12 11:50:14 | Application Start | Information
+03.12 11:50:14 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+03.12 12:00:35 | Application Start | Information
+03.12 12:00:35 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+03.12 12:01:49 | Application Start | Information
+03.12 12:01:50 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+03.12 12:07:53 | Application Start | Information
+03.12 12:07:53 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+03.12 12:08:56 | Application Start | Information
+03.12 12:08:56 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+03.12 12:11:19 | Application Start | Information
+03.12 12:12:37 | Application Start | Information
+03.12 12:14:00 | Application Start | Information
+03.12 12:15:29 | Application Start | Information
+03.12 12:18:16 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 12:18:17 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 12:18:17 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 12:18:18 | Bars data resolved for symbol:F.US.DDZ13 | Information
+03.12 12:18:22 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+03.12 12:18:42 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 12:18:54 | Tick data resolved for symbol:F.US.DDZ13 | Information
+03.12 12:21:27 | Application Start | Information
+03.12 12:23:31 | Creating request for symbol:F.US.QOZ14 | Information
+03.12 12:23:33 | Request is 'In progress' for symbol:F.US.QOZ14 | Information
+03.12 12:23:33 |     Start collecting symbol: F.US.QOZ14 | Information
+03.12 12:23:33 | Creating request for symbol:F.US.QOF14 | Information
+03.12 12:23:34 | Request is 'In progress' for symbol:F.US.QOF14 | Information
+03.12 12:23:34 |     Start collecting symbol: F.US.QOF14 | Information
+03.12 12:23:34 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 12:23:34 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 12:23:34 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 12:23:34 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 12:23:34 | Bars data resolved for symbol:F.US.DDZ13 | Information
+03.12 12:23:36 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+03.12 12:23:36 | Bars data resolved for symbol:F.US.QOZ14 | Information
+03.12 12:23:36 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 12:23:39 |     Finished collecting symbol: F.US.QOZ14 [successful] | Information
+03.12 12:23:40 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 12:23:40 | Bars data resolved for symbol:F.US.QOF14 | Information
+03.12 12:23:41 |     Finished collecting symbol: F.US.QOF14 [successful] | Information
+03.12 12:23:41 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 12:23:41 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 12:23:45 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 12:23:45 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 12:23:49 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 12:24:30 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 12:24:36 | Tick data resolved for symbol:F.US.QOS1F14 | Information
+03.12 12:26:19 | Application Start | Information
+03.12 12:26:38 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 12:26:39 | Tick data resolved for symbol:F.US.QOS1F14 | Information
+03.12 12:28:07 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 12:30:11 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 12:30:11 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 12:30:11 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 12:30:11 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 12:30:11 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 12:30:11 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 12:30:14 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 12:30:15 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 12:30:15 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 12:30:16 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 12:30:29 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 12:30:29 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 12:30:29 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 12:30:29 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 12:30:29 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 12:30:29 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 12:30:33 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 12:30:34 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 12:30:34 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 12:30:34 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 12:30:51 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 12:30:51 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 12:30:51 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 12:30:51 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 12:30:51 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 12:30:51 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 12:30:51 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 12:30:52 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 12:30:52 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 12:30:54 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 12:31:03 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 12:31:03 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 12:31:03 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 12:31:03 | Creating request for symbol:F.US.QOZ14 | Information
+03.12 12:31:03 | Request is 'In progress' for symbol:F.US.QOZ14 | Information
+03.12 12:31:03 |     Start collecting symbol: F.US.QOZ14 | Information
+03.12 12:31:03 | Bars data resolved for symbol:F.US.QOZ14 | Information
+03.12 12:31:04 |     Finished collecting symbol: F.US.QOZ14 [successful] | Information
+03.12 12:31:04 | Bars data resolved for symbol:F.US.DDZ13 | Information
+03.12 12:31:05 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+03.12 12:31:17 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 12:31:17 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 12:31:17 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 12:31:17 | Creating request for symbol:F.US.QOZ14 | Information
+03.12 12:31:17 | Request is 'In progress' for symbol:F.US.QOZ14 | Information
+03.12 12:31:17 |     Start collecting symbol: F.US.QOZ14 | Information
+03.12 12:31:17 | Bars data resolved for symbol:F.US.DDZ13 | Information
+03.12 12:31:18 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+03.12 12:31:18 | Bars data resolved for symbol:F.US.QOZ14 | Information
+03.12 12:31:19 |     Finished collecting symbol: F.US.QOZ14 [successful] | Information
+03.12 12:31:23 |  Collecting stoped!!! | Warning
+03.12 12:31:31 | Application Start | Information
+03.12 12:32:00 | Creating request for symbol:F.US.QOZ14 | Information
+03.12 12:32:00 | Request is 'In progress' for symbol:F.US.QOZ14 | Information
+03.12 12:32:00 |     Start collecting symbol: F.US.QOZ14 | Information
+03.12 12:32:00 | Creating request for symbol:F.US.QOF14 | Information
+03.12 12:32:00 | Bars data resolved for symbol:F.US.QOZ14 | Information
+03.12 12:32:01 | Request is 'In progress' for symbol:F.US.QOF14 | Information
+03.12 12:32:01 |     Start collecting symbol: F.US.QOF14 | Information
+03.12 12:32:01 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 12:32:02 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 12:32:02 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 12:32:02 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 12:32:02 | Bars data resolved for symbol:F.US.DDZ13 | Information
+03.12 12:32:03 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+03.12 12:32:03 | Bars data resolved for symbol:F.US.QOF14 | Information
+03.12 12:32:03 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 12:32:04 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 12:32:04 |     Finished collecting symbol: F.US.QOF14 [successful] | Information
+03.12 12:32:04 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 12:32:05 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 12:32:05 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 12:32:05 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 12:32:06 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 12:32:07 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 12:32:38 | Creating request for symbol:F.US.QOZ14 | Information
+03.12 12:32:39 | Request is 'In progress' for symbol:F.US.QOZ14 | Information
+03.12 12:32:39 |     Start collecting symbol: F.US.QOZ14 | Information
+03.12 12:32:39 | Creating request for symbol:F.US.QOF14 | Information
+03.12 12:32:40 | Request is 'In progress' for symbol:F.US.QOF14 | Information
+03.12 12:32:40 |     Start collecting symbol: F.US.QOF14 | Information
+03.12 12:32:40 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 12:32:41 | Bars data resolved for symbol:F.US.QOZ14 | Information
+03.12 12:32:42 |     Finished collecting symbol: F.US.QOZ14 [successful] | Information
+03.12 12:32:42 | Bars data resolved for symbol:F.US.QOF14 | Information
+03.12 12:32:42 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 12:32:43 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 12:32:43 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 12:32:43 | Bars data resolved for symbol:F.US.DDZ13 | Information
+03.12 12:32:44 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+03.12 12:32:45 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 12:32:45 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 12:32:45 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 12:32:45 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 12:32:45 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 12:32:46 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 12:32:47 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 12:32:47 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 12:32:49 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 12:33:28 | Creating request for symbol:F.US.QOZ14 | Information
+03.12 12:33:28 | Request is 'In progress' for symbol:F.US.QOZ14 | Information
+03.12 12:33:28 |     Start collecting symbol: F.US.QOZ14 | Information
+03.12 12:33:28 | Creating request for symbol:F.US.QOF14 | Information
+03.12 12:33:28 | Request is 'In progress' for symbol:F.US.QOF14 | Information
+03.12 12:33:28 |     Start collecting symbol: F.US.QOF14 | Information
+03.12 12:33:28 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 12:33:28 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 12:33:28 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 12:33:28 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 12:33:35 | Bars data resolved for symbol:F.US.QOZ14 | Information
+03.12 12:34:28 | Application Start | Information
+03.12 12:34:37 | Creating request for symbol:F.US.QOZ14 | Information
+03.12 12:34:37 | Request is 'In progress' for symbol:F.US.QOZ14 | Information
+03.12 12:34:37 |     Start collecting symbol: F.US.QOZ14 | Information
+03.12 12:34:37 | Creating request for symbol:F.US.QOF14 | Information
+03.12 12:34:37 | Request is 'In progress' for symbol:F.US.QOF14 | Information
+03.12 12:34:37 |     Start collecting symbol: F.US.QOF14 | Information
+03.12 12:34:37 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 12:34:37 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 12:34:37 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 12:34:37 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 12:34:37 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 12:34:37 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 12:34:37 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 12:34:37 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 12:34:37 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 12:34:41 | Bars data resolved for symbol:F.US.DDZ13 | Information
+03.12 12:34:45 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+03.12 12:34:45 | Bars data resolved for symbol:F.US.QOZ14 | Information
+03.12 12:34:49 |     Finished collecting symbol: F.US.QOZ14 [successful] | Information
+03.12 12:34:49 | Bars data resolved for symbol:F.US.QOF14 | Information
+03.12 12:34:53 |     Finished collecting symbol: F.US.QOF14 [successful] | Information
+03.12 12:34:53 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 12:34:58 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 12:34:58 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 12:35:02 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 12:35:18 | Creating request for symbol:F.US.QOZ14 | Information
+03.12 12:35:18 | Request is 'In progress' for symbol:F.US.QOZ14 | Information
+03.12 12:35:18 |     Start collecting symbol: F.US.QOZ14 | Information
+03.12 12:35:18 | Bars data resolved for symbol:F.US.QOZ14 | Information
+03.12 12:35:20 |     Finished collecting symbol: F.US.QOZ14 [successful] | Information
+03.12 12:35:27 | Creating request for symbol:F.US.QOZ14 | Information
+03.12 12:35:27 | Request is 'In progress' for symbol:F.US.QOZ14 | Information
+03.12 12:35:27 |     Start collecting symbol: F.US.QOZ14 | Information
+03.12 12:35:27 | Creating request for symbol:F.US.QOF14 | Information
+03.12 12:35:27 | Request is 'In progress' for symbol:F.US.QOF14 | Information
+03.12 12:35:27 |     Start collecting symbol: F.US.QOF14 | Information
+03.12 12:35:27 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 12:35:27 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 12:35:27 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 12:35:27 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 12:35:27 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 12:35:27 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 12:35:27 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 12:35:27 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 12:35:27 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 12:35:28 | Bars data resolved for symbol:F.US.DDZ13 | Information
+03.12 12:35:33 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+03.12 12:35:33 | Bars data resolved for symbol:F.US.QOZ14 | Information
+03.12 12:35:37 |     Finished collecting symbol: F.US.QOZ14 [successful] | Information
+03.12 12:35:37 | Bars data resolved for symbol:F.US.QOF14 | Information
+03.12 12:35:42 |     Finished collecting symbol: F.US.QOF14 [successful] | Information
+03.12 12:35:42 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 12:35:46 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 12:35:46 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 12:35:50 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 12:35:59 | Creating request for symbol:F.US.QOF14 | Information
+03.12 12:35:59 | Request is 'In progress' for symbol:F.US.QOF14 | Information
+03.12 12:35:59 |     Start collecting symbol: F.US.QOF14 | Information
+03.12 12:35:59 | Bars data resolved for symbol:F.US.QOF14 | Information
+03.12 12:36:01 |     Finished collecting symbol: F.US.QOF14 [successful] | Information
+03.12 12:36:23 |  Collecting stoped!!! | Warning
+03.12 12:37:44 | Application Start | Information
+03.12 12:38:02 |     Start collecting symbol: F.US.QOF14 | Information
+03.12 12:38:12 | Tick data resolved for symbol:F.US.QOF14 | Information
+03.12 12:40:10 | Application Start | Information
+03.12 12:40:20 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 12:40:21 | Tick data resolved for symbol:F.US.QOS1F14 | Information
+03.12 12:41:24 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 12:41:46 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 12:41:54 | Tick data resolved for symbol:F.US.QOS1G14 | Information
+03.12 12:42:54 | Application Start | Information
+03.12 12:43:04 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 12:43:05 | Tick data resolved for symbol:F.US.QOS1G14 | Information
+03.12 12:44:11 | Application Start | Information
+03.12 12:44:41 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 12:44:42 | Tick data resolved for symbol:F.US.QOS1G14 | Information
+03.12 12:45:51 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 13:03:11 |  Collecting stoped!!! | Warning
+03.12 15:10:08 | Application Start | Information
+03.12 15:10:08 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+03.12 15:38:50 | Application Start | Information
+03.12 15:39:13 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 15:39:13 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 15:39:13 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 15:39:13 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 15:39:14 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 15:39:14 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 15:39:16 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 15:39:17 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 15:39:17 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 15:39:18 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 15:40:05 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 15:40:05 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 15:40:05 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 15:40:05 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 15:40:05 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 15:40:05 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 15:40:05 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 15:41:47 | Application Start | Information
+03.12 15:41:55 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 15:41:55 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 15:41:55 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 15:41:55 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 15:43:47 | Application Start | Information
+03.12 15:43:54 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 15:43:55 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 15:43:55 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 15:43:55 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 15:43:55 | Bars data resolved for symbol:F.US.DDZ13 | Information
+03.12 15:47:08 | Application Start | Information
+03.12 15:47:15 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 15:47:15 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 15:47:15 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 15:47:15 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 15:47:15 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 15:48:40 | Application Start | Information
+03.12 15:48:45 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 15:48:46 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 15:48:46 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 15:48:46 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 15:48:46 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 15:48:46 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 15:48:46 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 15:50:13 | Application Start | Information
+03.12 15:50:18 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 15:50:19 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 15:50:19 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 15:50:19 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 15:50:21 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 15:52:17 | Application Start | Information
+03.12 15:52:30 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 15:52:36 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 15:52:36 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 15:52:36 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 15:52:37 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 15:52:59 | Application Start | Information
+03.12 15:53:21 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 15:53:37 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 15:53:37 | BarsAdd. System.Collections.Generic.KeyNotFoundException: Данный ключ отсутствует в словаре.
+   в System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   в DataNetClient.Core.DataCollector.BarsAdd(CQGTimedBars mCurTimedBars, CQGError cqgError, String userName) в c:\Users\rusla_000\Documents\da\DataNetClient\Core\DataCollector.cs:строка 186 | Error
+03.12 15:53:38 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 15:53:41 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 15:54:09 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 15:54:09 | BarsAdd. System.Collections.Generic.KeyNotFoundException: Данный ключ отсутствует в словаре.
+   в System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   в DataNetClient.Core.DataCollector.BarsAdd(CQGTimedBars mCurTimedBars, CQGError cqgError, String userName) в c:\Users\rusla_000\Documents\da\DataNetClient\Core\DataCollector.cs:строка 186 | Error
+03.12 15:54:09 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 15:54:37 | Application Start | Information
+03.12 15:55:44 | Application Start | Information
+03.12 15:56:02 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 15:56:03 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 15:56:03 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 15:56:03 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 15:56:04 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 15:57:45 | Application Start | Information
+03.12 15:57:50 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 15:57:54 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 15:57:54 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 15:57:54 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 15:57:54 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 15:57:54 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 15:57:54 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 15:57:56 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 15:58:49 | Application Start | Information
+03.12 15:58:54 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 15:58:54 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 15:58:54 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 15:58:54 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 15:58:54 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 15:58:54 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 15:58:54 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 15:58:57 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 16:00:12 | Application Start | Information
+03.12 16:00:17 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:00:17 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:00:17 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:00:17 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 16:00:17 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 16:00:17 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:00:17 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:00:18 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 16:00:18 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:00:20 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 16:00:49 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:00:50 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:00:50 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:00:50 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 16:00:50 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:01:14 | Application Start | Information
+03.12 16:01:19 | Creating request for symbol:F.US.QOZ14 | Information
+03.12 16:01:20 | Request is 'In progress' for symbol:F.US.QOZ14 | Information
+03.12 16:01:20 |     Start collecting symbol: F.US.QOZ14 | Information
+03.12 16:01:20 | Creating request for symbol:F.US.QOF14 | Information
+03.12 16:01:21 | Request is 'In progress' for symbol:F.US.QOF14 | Information
+03.12 16:01:21 |     Start collecting symbol: F.US.QOF14 | Information
+03.12 16:01:21 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 16:01:22 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 16:01:22 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 16:01:22 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:01:22 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:01:22 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:01:22 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 16:01:22 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 16:01:22 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:01:22 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:01:24 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 16:01:24 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:01:26 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 16:01:26 | Bars data resolved for symbol:F.US.QOZ14 | Information
+03.12 16:01:28 |     Finished collecting symbol: F.US.QOZ14 [successful] | Information
+03.12 16:01:29 | Bars data resolved for symbol:F.US.QOF14 | Information
+03.12 16:01:32 |     Finished collecting symbol: F.US.QOF14 [successful] | Information
+03.12 16:01:32 | Bars data resolved for symbol:F.US.DDZ13 | Information
+03.12 16:01:34 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+03.12 16:01:38 | Creating request for symbol:F.US.QOZ14 | Information
+03.12 16:01:38 | Request is 'In progress' for symbol:F.US.QOZ14 | Information
+03.12 16:01:38 |     Start collecting symbol: F.US.QOZ14 | Information
+03.12 16:01:38 | Creating request for symbol:F.US.QOF14 | Information
+03.12 16:01:38 | Request is 'In progress' for symbol:F.US.QOF14 | Information
+03.12 16:01:38 |     Start collecting symbol: F.US.QOF14 | Information
+03.12 16:01:38 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 16:01:38 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 16:01:38 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 16:01:38 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:01:38 | Bars data resolved for symbol:F.US.QOZ14 | Information
+03.12 16:01:41 |     Finished collecting symbol: F.US.QOZ14 [successful] | Information
+03.12 16:01:41 | Bars data resolved for symbol:F.US.QOF14 | Information
+03.12 16:01:41 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:01:44 |     Finished collecting symbol: F.US.QOF14 [successful] | Information
+03.12 16:01:44 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 16:02:19 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 16:02:34 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:02:34 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+03.12 16:02:34 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:02:35 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 16:02:35 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:02:36 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 16:03:50 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 16:03:50 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 16:03:50 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 16:03:50 | Bars data resolved for symbol:F.US.DDZ13 | Information
+03.12 16:03:51 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+03.12 16:04:01 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 16:04:01 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 16:04:01 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 16:04:01 | Bars data resolved for symbol:F.US.DDZ13 | Information
+03.12 16:04:02 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+03.12 16:04:06 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:04:06 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:04:06 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:04:06 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:04:07 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 16:04:12 | Creating request for symbol:F.US.QOF14 | Information
+03.12 16:04:12 | Request is 'In progress' for symbol:F.US.QOF14 | Information
+03.12 16:04:12 |     Start collecting symbol: F.US.QOF14 | Information
+03.12 16:04:12 | Bars data resolved for symbol:F.US.QOF14 | Information
+03.12 16:04:13 |     Finished collecting symbol: F.US.QOF14 [successful] | Information
+03.12 16:04:17 | Creating request for symbol:F.US.QOZ14 | Information
+03.12 16:04:17 | Request is 'In progress' for symbol:F.US.QOZ14 | Information
+03.12 16:04:17 |     Start collecting symbol: F.US.QOZ14 | Information
+03.12 16:04:17 | Bars data resolved for symbol:F.US.QOZ14 | Information
+03.12 16:04:18 |     Finished collecting symbol: F.US.QOZ14 [successful] | Information
+03.12 16:05:30 |    Start missing bar for symbol: F.US.QOZ14 | Information
+03.12 16:05:30 |    Start missing bar for symbol: F.US.QOF14 | Information
+03.12 16:06:07 | Application Start | Information
+03.12 16:06:15 |    Start missing bar for symbol: F.US.QOZ14 | Information
+03.12 16:06:53 | Application Start | Information
+03.12 16:06:59 |    Start missing bar for symbol: F.US.DDZ13 | Information
+03.12 16:07:34 | Application Start | Information
+03.12 16:07:42 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 16:07:42 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 16:07:42 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 16:07:42 | Bars data resolved for symbol:F.US.DDZ13 | Information
+03.12 16:07:45 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+03.12 16:07:54 |    Start missing bar for symbol: F.US.DDZ13 | Information
+03.12 16:07:55 |    Finished missing bar for symbol: F.US.DDZ13 | Information
+03.12 16:08:05 |    Start missing bar for symbol: F.US.QOZ14 | Information
+03.12 16:10:06 | Application Start | Information
+03.12 16:10:13 |    Start missing bar for symbol: F.US.QOZ14 | Information
+03.12 16:11:06 | Application Start | Information
+03.12 16:11:12 | Creating request for symbol:F.US.DDZ13 | Information
+03.12 16:11:12 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+03.12 16:11:12 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 16:11:12 | Bars data resolved for symbol:F.US.DDZ13 | Information
+03.12 16:11:13 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+03.12 16:11:16 |    Start missing bar for symbol: F.US.DDZ13 | Information
+03.12 16:11:17 |    Finished missing bar for symbol: F.US.DDZ13 | Information
+03.12 16:11:20 |    Start missing bar for symbol: F.US.QOZ14 | Information
+03.12 16:11:20 |    Start missing bar for symbol: F.US.QOF14 | Information
+03.12 16:11:20 |    Start missing bar for symbol: F.US.DDZ13 | Information
+03.12 16:11:20 |    Start missing bar for symbol: F.US.QOS1F14 | Information
+03.12 16:11:20 |    Start missing bar for symbol: F.US.QOS1G14 | Information
+03.12 16:11:35 |    Finished missing bar for symbol: F.US.QOZ14 | Information
+03.12 16:11:37 |    Finished missing bar for symbol: F.US.QOF14 | Information
+03.12 16:11:37 |    Finished missing bar for symbol: F.US.DDZ13 | Information
+03.12 16:11:38 |    Finished missing bar for symbol: F.US.QOS1F14 | Information
+03.12 16:11:38 |    Finished missing bar for symbol: F.US.QOS1G14 | Information
+03.12 16:12:01 |  Collecting stoped!!! | Warning
+03.12 16:12:25 | Application Start | Information
+03.12 16:12:39 |     Start collecting symbol: F.US.DDZ13 | Information
+03.12 16:12:39 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:12:39 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:12:42 | Tick data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:14:35 | Application Start | Information
+03.12 16:14:48 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:14:48 | Tick data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:16:08 | Application Start | Information
+03.12 16:16:15 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:16:15 | Tick data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:17:12 | Application Start | Information
+03.12 16:17:24 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 16:17:25 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 16:17:25 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:17:25 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:17:29 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 16:17:32 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:17:32 | Tick data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:17:53 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 16:18:29 |  Collecting stoped!!! | Warning
+03.12 16:18:53 | Application Start | Information
+03.12 16:19:00 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:19:01 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:19:01 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:19:01 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 16:19:01 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 16:19:01 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:19:01 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:19:04 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 16:19:04 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:19:07 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 16:19:08 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:19:08 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:19:08 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:19:09 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 16:19:09 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 16:19:09 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:19:09 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:19:12 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 16:19:12 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:19:13 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 16:20:14 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:20:14 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:20:14 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:20:14 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 16:20:14 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 16:20:14 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:20:14 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:20:15 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 16:20:15 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:20:17 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 16:21:28 | Application Start | Information
+03.12 16:21:43 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:21:43 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:21:43 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:21:43 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 16:21:43 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 16:21:43 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:21:43 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:21:45 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 16:21:45 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:21:46 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 16:22:04 | Application Start | Information
+03.12 16:22:09 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:22:09 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:22:09 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:22:09 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:22:10 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 16:23:04 | Application Start | Information
+03.12 16:23:14 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:23:14 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:23:14 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:23:14 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 16:23:14 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 16:23:14 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:23:14 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:23:15 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 16:24:49 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:24:51 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 16:27:17 | Application Start | Information
+03.12 16:27:22 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:27:23 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:27:23 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:27:23 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 16:27:23 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:28:42 | Application Start | Information
+03.12 16:29:09 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 16:29:09 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 16:29:09 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:29:09 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:29:11 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 16:30:43 | Application Start | Information
+03.12 16:31:20 | Application Start | Information
+03.12 16:32:02 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:32:02 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:32:02 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:32:03 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:32:06 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 16:32:13 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:32:13 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:32:13 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:32:13 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:32:16 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 16:32:25 |  Collecting stoped!!! | Warning
+03.12 16:35:41 | Application Start | Information
+03.12 16:35:46 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:36:11 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:36:11 | BarsAdd. System.Collections.Generic.KeyNotFoundException: Данный ключ отсутствует в словаре.
+   в System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   в DataNetClient.Core.DataCollector.BarsAdd(CQGTimedBars mCurTimedBars, CQGError cqgError, String userName) в c:\Users\rusla_000\Documents\da\DataNetClient\Core\DataCollector.cs:строка 186 | Error
+03.12 16:36:46 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:41:04 | Application Start | Information
+03.12 16:41:10 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:41:19 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:41:19 | BarsAdd. System.Collections.Generic.KeyNotFoundException: Данный ключ отсутствует в словаре.
+   в System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   в DataNetClient.Core.DataCollector.BarsAdd(CQGTimedBars mCurTimedBars, CQGError cqgError, String userName) в c:\Users\rusla_000\Documents\da\DataNetClient\Core\DataCollector.cs:строка 186 | Error
+03.12 16:41:20 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 16:41:20 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:41:20 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:41:23 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 16:41:47 |     Finished collecting symbol: F.US.QOS1F14 [unsuccessful] | Warning
+03.12 16:43:15 | Application Start | Information
+03.12 16:43:22 | Creating request for symbol:F.US.QOS1F14 | Information
+03.12 16:43:22 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+03.12 16:43:22 |     Start collecting symbol: F.US.QOS1F14 | Information
+03.12 16:43:22 | Creating request for symbol:F.US.QOS1G14 | Information
+03.12 16:43:22 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+03.12 16:43:22 |     Start collecting symbol: F.US.QOS1G14 | Information
+03.12 16:43:22 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+03.12 16:43:25 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+03.12 16:43:25 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+03.12 16:43:26 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+03.12 16:43:33 |  Collecting stoped!!! | Warning
+06.12 11:24:51 | Application Start | Information
+06.12 11:25:01 | Creating request for symbol:F.US.QOZ14 | Information
+06.12 11:25:02 | Request is 'In progress' for symbol:F.US.QOZ14 | Information
+06.12 11:25:02 |     Start collecting symbol: F.US.QOZ14 | Information
+06.12 11:25:02 | Creating request for symbol:F.US.QOF14 | Information
+06.12 11:25:02 | Request is 'In progress' for symbol:F.US.QOF14 | Information
+06.12 11:25:02 |     Start collecting symbol: F.US.QOF14 | Information
+06.12 11:25:02 | Creating request for symbol:F.US.DDZ13 | Information
+06.12 11:25:02 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+06.12 11:25:02 |     Start collecting symbol: F.US.DDZ13 | Information
+06.12 11:25:03 | Bars data resolved for symbol:F.US.DDZ13 | Information
+06.12 11:25:08 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+06.12 11:25:08 | Bars data resolved for symbol:F.US.QOZ14 | Information
+06.12 11:25:10 |     Finished collecting symbol: F.US.QOZ14 [successful] | Information
+06.12 11:25:10 | Bars data resolved for symbol:F.US.QOF14 | Information
+06.12 11:25:14 |     Finished collecting symbol: F.US.QOF14 [successful] | Information
+06.12 11:25:41 | Creating request for symbol:F.US.QOS1F14 | Information
+06.12 11:25:41 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+06.12 11:25:41 |     Start collecting symbol: F.US.QOS1F14 | Information
+06.12 11:25:41 | Creating request for symbol:F.US.QOS1G14 | Information
+06.12 11:25:41 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+06.12 11:25:41 |     Start collecting symbol: F.US.QOS1G14 | Information
+06.12 11:25:44 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+06.12 11:25:48 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+06.12 11:25:48 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+06.12 11:25:52 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+06.12 11:26:07 | Creating request for symbol:F.US.QOS1G14 | Information
+06.12 11:26:08 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+06.12 11:26:08 |     Start collecting symbol: F.US.QOS1G14 | Information
+06.12 11:26:08 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+06.12 11:26:09 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+06.12 11:26:28 | Creating request for symbol:F.US.QOS1G14 | Information
+06.12 11:26:29 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+06.12 11:26:29 |     Start collecting symbol: F.US.QOS1G14 | Information
+06.12 11:26:30 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+06.12 11:26:31 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+06.12 11:26:52 |  Collecting stoped!!! | Warning
+06.12 11:33:29 | Application Start | Information
+06.12 11:33:38 | Creating request for symbol:F.US.QOS1F14 | Information
+06.12 11:33:38 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+06.12 11:33:38 |     Start collecting symbol: F.US.QOS1F14 | Information
+06.12 11:33:38 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+06.12 11:33:40 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+06.12 11:33:42 | Creating request for symbol:F.US.QOS1F14 | Information
+06.12 11:33:43 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+06.12 11:33:43 |     Start collecting symbol: F.US.QOS1F14 | Information
+06.12 11:33:45 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+06.12 11:33:49 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+06.12 11:33:52 | Creating request for symbol:F.US.QOS1F14 | Information
+06.12 11:33:53 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+06.12 11:33:53 |     Start collecting symbol: F.US.QOS1F14 | Information
+06.12 11:33:54 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+06.12 11:33:54 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+06.12 11:34:09 | Creating request for symbol:F.US.QOS1F14 | Information
+06.12 11:34:11 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+06.12 11:34:11 |     Start collecting symbol: F.US.QOS1F14 | Information
+06.12 11:34:12 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+06.12 11:34:12 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+06.12 11:35:09 |  Start collecting group: asd | Information
+06.12 11:35:09 | Creating request for symbol:F.US.DDZ13 | Information
+06.12 11:35:10 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+06.12 11:35:10 |     Start collecting symbol: F.US.DDZ13 | Information
+06.12 11:35:10 | Creating request for symbol:F.US.QOS1F14 | Information
+06.12 11:35:11 | Bars data resolved for symbol:F.US.DDZ13 | Information
+06.12 11:35:11 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+06.12 11:35:14 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+06.12 11:35:15 | Creating request for symbol:F.US.QOS1G14 | Information
+06.12 11:35:20 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+06.12 11:35:20 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+06.12 11:35:23 |     Start collecting symbol: F.US.QOS1G14 | Information
+06.12 11:35:24 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+06.12 11:35:26 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+06.12 11:35:27 |  Finished collecting group: asd | Information
+06.12 12:07:41 |  Collecting stoped!!! | Warning
+06.12 12:48:09 | Application Start | Information
+06.12 12:48:14 | Creating request for symbol:F.US.DDZ13 | Information
+06.12 12:48:14 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+06.12 12:48:14 |     Start collecting symbol: F.US.DDZ13 | Information
+06.12 12:48:14 | Creating request for symbol:F.US.QOS1F14 | Information
+06.12 12:48:14 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+06.12 12:48:14 |     Start collecting symbol: F.US.QOS1F14 | Information
+06.12 12:48:14 | Creating request for symbol:F.US.QOS1G14 | Information
+06.12 12:48:14 | Request is 'In progress' for symbol:F.US.QOS1G14 | Information
+06.12 12:48:14 |     Start collecting symbol: F.US.QOS1G14 | Information
+06.12 12:48:15 | Bars data resolved for symbol:F.US.DDZ13 | Information
+06.12 12:48:16 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+06.12 12:48:17 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+06.12 12:48:19 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+06.12 12:48:19 | Bars data resolved for symbol:F.US.QOS1G14 | Information
+06.12 12:48:20 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+06.12 12:48:26 |     Start collecting symbol: F.US.DDZ13 | Information
+06.12 12:48:26 |     Start collecting symbol: F.US.QOS1F14 | Information
+06.12 12:48:26 |     Start collecting symbol: F.US.QOS1G14 | Information
+06.12 12:48:28 | Tick data resolved for symbol:F.US.DDZ13 | Information
+06.12 12:49:19 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+06.12 12:49:19 | Tick data resolved for symbol:F.US.QOS1F14 | Information
+06.12 12:49:32 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+06.12 12:49:32 | Tick data resolved for symbol:F.US.QOS1G14 | Information
+06.12 12:49:42 |     Finished collecting symbol: F.US.QOS1G14 [successful] | Information
+06.12 13:01:59 |  Collecting stoped!!! | Warning
+13.12 19:42:22 | Application Start | Information
+13.12 19:42:28 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+13.12 20:08:50 | Application Start | Information
+13.12 20:08:50 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+13.12 20:10:23 | Application Start | Information
+13.12 20:10:29 | Creating request for symbol:F.US.DDZ13 | Information
+13.12 20:10:29 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+13.12 20:10:29 |     Start collecting symbol: F.US.DDZ13 | Information
+13.12 20:10:31 | Bars data resolved for symbol:F.US.DDZ13 | Information
+13.12 20:10:34 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+13.12 20:10:53 | Creating request for symbol:F.US.DDZ13 | Information
+13.12 20:10:53 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+13.12 20:10:53 |     Start collecting symbol: F.US.DDZ13 | Information
+13.12 20:10:53 | Creating request for symbol:F.US.QOS1F14 | Information
+13.12 20:10:53 | Bars data resolved for symbol:F.US.DDZ13 | Information
+13.12 20:10:54 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+13.12 20:10:54 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+13.12 20:10:54 |     Start collecting symbol: F.US.QOS1F14 | Information
+13.12 20:10:56 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+13.12 20:10:59 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+13.12 20:11:03 | Creating request for symbol:F.US.DDZ13 | Information
+13.12 20:11:04 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+13.12 20:11:04 |     Start collecting symbol: F.US.DDZ13 | Information
+13.12 20:11:04 | Creating request for symbol:F.US.QOS1F14 | Information
+13.12 20:11:05 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+13.12 20:11:05 |     Start collecting symbol: F.US.QOS1F14 | Information
+13.12 20:11:05 | Bars data resolved for symbol:F.US.DDZ13 | Information
+13.12 20:11:05 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+13.12 20:11:05 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+13.12 20:11:05 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+13.12 20:11:08 | Creating request for symbol:F.US.DDZ13 | Information
+13.12 20:11:09 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+13.12 20:11:09 |     Start collecting symbol: F.US.DDZ13 | Information
+13.12 20:11:09 | Creating request for symbol:F.US.QOS1F14 | Information
+13.12 20:11:09 | Bars data resolved for symbol:F.US.DDZ13 | Information
+13.12 20:11:09 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+13.12 20:11:10 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+13.12 20:11:10 |     Start collecting symbol: F.US.QOS1F14 | Information
+13.12 20:11:10 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+13.12 20:11:11 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+13.12 20:11:12 | Creating request for symbol:F.US.DDZ13 | Information
+13.12 20:11:13 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+13.12 20:11:13 |     Start collecting symbol: F.US.DDZ13 | Information
+13.12 20:11:13 | Creating request for symbol:F.US.QOS1F14 | Information
+13.12 20:11:13 | Bars data resolved for symbol:F.US.DDZ13 | Information
+13.12 20:11:13 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+13.12 20:11:14 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+13.12 20:11:14 |     Start collecting symbol: F.US.QOS1F14 | Information
+13.12 20:11:14 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+13.12 20:11:15 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+13.12 20:11:16 | Creating request for symbol:F.US.DDZ13 | Information
+13.12 20:11:16 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+13.12 20:11:16 |     Start collecting symbol: F.US.DDZ13 | Information
+13.12 20:11:16 | Creating request for symbol:F.US.QOS1F14 | Information
+13.12 20:11:17 | Bars data resolved for symbol:F.US.DDZ13 | Information
+13.12 20:11:17 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+13.12 20:11:17 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+13.12 20:11:17 |     Start collecting symbol: F.US.QOS1F14 | Information
+13.12 20:11:18 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+13.12 20:11:18 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+13.12 20:11:19 | Creating request for symbol:F.US.DDZ13 | Information
+13.12 20:11:20 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+13.12 20:11:20 |     Start collecting symbol: F.US.DDZ13 | Information
+13.12 20:11:20 | Creating request for symbol:F.US.QOS1F14 | Information
+13.12 20:11:20 | Bars data resolved for symbol:F.US.DDZ13 | Information
+13.12 20:11:20 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+13.12 20:11:21 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+13.12 20:11:21 |     Start collecting symbol: F.US.QOS1F14 | Information
+13.12 20:11:21 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+13.12 20:11:22 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+13.12 20:11:23 | Creating request for symbol:F.US.DDZ13 | Information
+13.12 20:11:23 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+13.12 20:11:23 |     Start collecting symbol: F.US.DDZ13 | Information
+13.12 20:11:23 | Creating request for symbol:F.US.QOS1F14 | Information
+13.12 20:11:23 | Bars data resolved for symbol:F.US.DDZ13 | Information
+13.12 20:11:24 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+13.12 20:11:24 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+13.12 20:11:24 | BarsAdd. System.Collections.Generic.KeyNotFoundException: Данный ключ отсутствует в словаре.
+   в System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   в DataNetClient.Core.DataCollector.BarsAdd(CQGTimedBars mCurTimedBars, CQGError cqgError, String userName) в c:\Users\rusla_000\Documents\da\DataNetClient\Core\DataCollector.cs:строка 186 | Error
+13.12 20:11:24 |     Start collecting symbol: F.US.QOS1F14 | Information
+13.12 20:11:49 | Creating request for symbol:F.US.DDZ13 | Information
+13.12 20:11:49 | Request is 'In progress' for symbol:F.US.DDZ13 | Information
+13.12 20:11:49 |     Start collecting symbol: F.US.DDZ13 | Information
+13.12 20:11:49 | Creating request for symbol:F.US.QOS1F14 | Information
+13.12 20:11:50 | Request is 'In progress' for symbol:F.US.QOS1F14 | Information
+13.12 20:11:50 |     Start collecting symbol: F.US.QOS1F14 | Information
+13.12 20:11:50 | Bars data resolved for symbol:F.US.DDZ13 | Information
+13.12 20:11:51 |     Finished collecting symbol: F.US.DDZ13 [successful] | Information
+13.12 20:11:51 | Bars data resolved for symbol:F.US.QOS1F14 | Information
+13.12 20:11:51 |     Finished collecting symbol: F.US.QOS1F14 [successful] | Information
+13.12 20:12:04 |    Start missing bar for symbol: F.US.QOZ14 | Information
+13.12 20:13:03 |    Finished missing bar for symbol: F.US.QOZ14 | Information
+13.12 20:13:09 |    Start missing bar for symbol: F.US.DDZ13 | Information
+13.12 20:13:38 |    Finished missing bar for symbol: F.US.DDZ13 | Information
+13.12 20:13:45 |  Collecting stoped!!! | Warning
+20.12 17:59:18 | Application Start | Information
+20.12 17:59:18 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+20.12 18:53:21 | Application Start | Information
+20.12 18:53:21 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+20.12 19:14:42 | Application Start | Information
+20.12 19:14:43 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+20.12 19:17:14 | Application Start | Information
+20.12 19:17:15 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+20.12 19:17:58 | Application Start | Information
+20.12 19:17:58 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+20.12 19:20:57 | Application Start | Information
+20.12 19:20:57 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+20.12 19:34:34 | Application Start | Information
+20.12 19:34:34 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+20.12 19:50:32 |  Start collecting group: D_1g | Information
+20.12 19:50:32 |  Finished collecting group: D_1g | Information
+20.12 19:50:34 |  Collecting stoped!!! | Warning
+20.12 20:02:10 | Application Start | Information
+20.12 20:02:10 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+20.12 20:20:13 | Application Start | Information
+20.12 20:20:14 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+21.12 09:08:04 | Application Start | Information
+21.12 09:08:07 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+21.12 10:11:50 | Application Start | Information
+21.12 10:11:51 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+21.12 10:12:20 | Application Start | Information
+21.12 10:12:20 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+21.12 10:13:01 | Application Start | Information
+21.12 10:13:01 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+21.12 10:13:20 | Application Start | Information
+21.12 10:13:21 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+21.12 10:13:34 | Application Start | Information
+21.12 10:13:46 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+21.12 10:14:11 | Application Start | Information
+21.12 10:14:19 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+21.12 10:14:25 | Application Start | Information
+21.12 10:14:26 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+21.12 10:14:37 | Application Start | Information
+21.12 10:14:37 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+21.12 10:14:56 | Application Start | Information
+21.12 10:14:57 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+21.12 10:15:04 |  Start collecting group: D_1g | Information
+21.12 10:15:05 |  Finished collecting group: D_1g | Information
+21.12 10:15:05 |  Start collecting group: D_1g | Information
+21.12 10:15:06 |  Finished collecting group: D_1g | Information
+21.12 10:15:06 |  Start collecting group: D_1g | Information
+21.12 10:15:06 |  Finished collecting group: D_1g | Information
+21.12 10:15:06 |  Start collecting group: D_1g | Information
+21.12 10:15:06 |  Finished collecting group: D_1g | Information
+21.12 10:15:06 |  Start collecting group: D_1g | Information
+21.12 10:15:06 |  Finished collecting group: D_1g | Information
+21.12 10:15:06 |  Start collecting group: D_1g | Information
+21.12 10:15:06 |  Finished collecting group: D_1g | Information
+21.12 10:15:07 |  Collecting stoped!!! | Warning
+21.12 10:35:30 | Application Start | Information
+21.12 10:35:30 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+21.12 10:35:57 | Application Start | Information
+21.12 10:35:57 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+21.12 11:04:42 | Application Start | Information
+21.12 11:04:42 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 09:31:22 | Application Start | Information
+22.12 09:31:26 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 09:36:30 | Application Start | Information
+22.12 09:36:30 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:38:58 | Application Start | Information
+22.12 10:38:59 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:40:19 | Application Start | Information
+22.12 10:40:19 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:41:46 | Application Start | Information
+22.12 10:41:46 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:42:18 | Application Start | Information
+22.12 10:42:18 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:42:41 | Application Start | Information
+22.12 10:42:42 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:43:34 | Application Start | Information
+22.12 10:43:34 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:44:36 | Application Start | Information
+22.12 10:44:38 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:45:38 | Application Start | Information
+22.12 10:45:38 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:46:32 | Application Start | Information
+22.12 10:46:33 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:49:05 | Application Start | Information
+22.12 10:49:06 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:49:44 | Application Start | Information
+22.12 10:49:44 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:52:14 | Application Start | Information
+22.12 10:52:15 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:54:15 | Application Start | Information
+22.12 10:54:15 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:56:50 | Application Start | Information
+22.12 10:56:50 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:57:25 | Application Start | Information
+22.12 10:57:25 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:58:18 | Application Start | Information
+22.12 10:58:18 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 10:59:21 | Application Start | Information
+22.12 10:59:22 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:01:13 | Application Start | Information
+22.12 11:01:13 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:01:56 | Application Start | Information
+22.12 11:01:56 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:02:53 | Application Start | Information
+22.12 11:02:54 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:03:42 | Application Start | Information
+22.12 11:03:42 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:04:29 | Application Start | Information
+22.12 11:04:30 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:05:34 | Application Start | Information
+22.12 11:05:35 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:06:07 | Application Start | Information
+22.12 11:06:08 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:10:12 | Application Start | Information
+22.12 11:10:13 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:11:45 | Application Start | Information
+22.12 11:11:46 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:15:42 | Application Start | Information
+22.12 11:15:44 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:21:06 | Application Start | Information
+22.12 11:21:06 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:24:22 | Application Start | Information
+22.12 11:24:22 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:25:17 | Application Start | Information
+22.12 11:25:17 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:25:58 | Application Start | Information
+22.12 11:25:59 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:26:20 | Application Start | Information
+22.12 11:26:20 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:27:05 | Application Start | Information
+22.12 11:27:05 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:30:05 | Application Start | Information
+22.12 11:30:06 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:33:12 | Application Start | Information
+22.12 11:33:12 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:33:52 | Application Start | Information
+22.12 11:33:53 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:37:21 | Application Start | Information
+22.12 11:37:21 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:37:41 | Application Start | Information
+22.12 11:37:43 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:38:33 | Application Start | Information
+22.12 11:38:34 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 11:56:41 | Application Start | Information
+22.12 11:56:42 | Error in loading. Ссылка на объект не указывает на экземпляр объекта. | Error
+22.12 11:57:35 | Application Start | Information
+22.12 11:57:36 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 12:06:01 | Application Start | Information
+22.12 12:06:01 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 12:07:33 | Application Start | Information
+22.12 12:07:33 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 12:13:05 | Application Start | Information
+22.12 12:13:05 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 12:13:44 | Application Start | Information
+22.12 12:13:45 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 12:21:51 | Application Start | Information
+22.12 12:21:51 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 12:33:07 | Application Start | Information
+22.12 12:33:08 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 12:39:50 | Application Start | Information
+22.12 12:39:50 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 12:41:39 | Application Start | Information
+22.12 12:41:39 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 12:42:25 | Application Start | Information
+22.12 12:42:25 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 12:43:18 | Application Start | Information
+22.12 12:43:18 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 22:26:53 | Application Start | Information
+22.12 22:26:53 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 22:27:25 | Application Start | Information
+22.12 22:27:25 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 22:32:08 | Application Start | Information
+22.12 22:32:08 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 22:43:08 | Application Start | Information
+22.12 22:43:08 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 22:44:56 | Application Start | Information
+22.12 22:44:56 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 22:46:41 | Application Start | Information
+22.12 22:46:41 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 22:47:31 | Application Start | Information
+22.12 22:47:31 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 22:48:30 | Application Start | Information
+22.12 22:48:30 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 22:49:31 | Application Start | Information
+22.12 22:49:31 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 22:49:48 | Application Start | Information
+22.12 22:49:48 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 22:51:23 | Application Start | Information
+22.12 22:51:23 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 22:52:58 | Application Start | Information
+22.12 22:52:59 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 22:54:24 | Application Start | Information
+22.12 22:54:24 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 22:59:31 | Application Start | Information
+22.12 22:59:32 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 23:01:58 | Application Start | Information
+22.12 23:01:58 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 23:03:35 | Application Start | Information
+22.12 23:03:35 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+22.12 23:07:24 | Application Start | Information
+22.12 23:16:05 | Application Start | Information
+22.12 23:21:06 | Application Start | Information
+22.12 23:43:37 | Application Start | Information
+22.12 23:45:11 | Application Start | Information
+22.12 23:46:23 | Application Start | Information
+22.12 23:47:11 | Application Start | Information
+22.12 23:48:11 | Application Start | Information
+22.12 23:49:22 | Application Start | Information
+22.12 23:51:45 | Application Start | Information
+22.12 23:52:36 | Application Start | Information
+22.12 23:53:36 | Application Start | Information
+22.12 23:53:55 | Application Start | Information
+22.12 23:56:01 | Application Start | Information
+22.12 23:57:23 | Application Start | Information
+23.12 00:03:33 | Application Start | Information
+23.12 00:04:26 | Application Start | Information
+23.12 00:06:58 | Application Start | Information
+23.12 00:08:25 | Application Start | Information
+23.12 00:18:07 | Application Start | Information
+23.12 00:21:10 | Application Start | Information
+23.12 00:25:22 | Application Start | Information
+23.12 06:22:02 | Application Start | Information
+23.12 06:22:48 | Application Start | Information
+23.12 06:22:49 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 06:39:23 | Application Start | Information
+23.12 06:39:25 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 06:40:18 | Application Start | Information
+23.12 06:40:30 | Application Start | Information
+23.12 06:40:30 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 06:42:40 | Application Start | Information
+23.12 07:04:50 | Application Start | Information
+23.12 07:06:03 | Application Start | Information
+23.12 07:11:04 | Application Start | Information
+23.12 07:11:54 | Application Start | Information
+23.12 07:13:36 | Application Start | Information
+23.12 07:15:05 | Application Start | Information
+23.12 07:15:44 | Application Start | Information
+23.12 07:22:45 | Application Start | Information
+23.12 07:23:49 | Application Start | Information
+23.12 07:46:34 | Application Start | Information
+23.12 07:47:11 | Application Start | Information
+23.12 07:49:37 | Application Start | Information
+23.12 07:53:39 | Application Start | Information
+23.12 07:54:53 | Application Start | Information
+23.12 07:58:20 | Application Start | Information
+23.12 08:00:21 | Application Start | Information
+23.12 08:00:56 | Application Start | Information
+23.12 08:02:09 |    Start missing bar for symbol: F.US.QOZ14 | Information
+23.12 08:02:09 |    Finished missing bar for symbol: F.US.QOZ14 | Information
+23.12 08:02:13 |    Start missing bar for symbol: F.US.QOZ14 | Information
+23.12 08:02:13 |    Start missing bar for symbol: F.US.QOF14 | Information
+23.12 08:02:14 |    Finished missing bar for symbol: F.US.QOZ14 | Information
+23.12 08:02:14 |    Finished missing bar for symbol: F.US.QOF14 | Information
+23.12 08:02:15 |    Start missing bar for symbol: F.US.QOZ14 | Information
+23.12 08:02:15 |    Start missing bar for symbol: F.US.QOF14 | Information
+23.12 08:02:15 |    Start missing bar for symbol: F.US.DDZ13 | Information
+23.12 08:02:15 |    Finished missing bar for symbol: F.US.QOZ14 | Information
+23.12 08:02:15 |    Finished missing bar for symbol: F.US.QOF14 | Information
+23.12 08:02:15 |    Finished missing bar for symbol: F.US.DDZ13 | Information
+23.12 08:02:17 |    Start missing bar for symbol: F.US.QOZ14 | Information
+23.12 08:02:17 |    Start missing bar for symbol: F.US.QOF14 | Information
+23.12 08:02:17 |    Start missing bar for symbol: F.US.DDZ13 | Information
+23.12 08:02:17 |    Start missing bar for symbol: F.US.QOS1F14 | Information
+23.12 08:02:18 |    Finished missing bar for symbol: F.US.QOZ14 | Information
+23.12 08:02:18 |    Finished missing bar for symbol: F.US.QOF14 | Information
+23.12 08:02:18 |    Finished missing bar for symbol: F.US.DDZ13 | Information
+23.12 08:02:18 |    Finished missing bar for symbol: F.US.QOS1F14 | Information
+23.12 08:02:21 |    Start missing bar for symbol: F.US.QOZ14 | Information
+23.12 08:02:21 |    Start missing bar for symbol: F.US.QOF14 | Information
+23.12 08:02:21 |    Start missing bar for symbol: F.US.DDZ13 | Information
+23.12 08:02:21 |    Start missing bar for symbol: F.US.QOS1F14 | Information
+23.12 08:02:21 |    Start missing bar for symbol: F.US.QOS1G14 | Information
+23.12 08:02:22 |    Finished missing bar for symbol: F.US.QOZ14 | Information
+23.12 08:02:22 |    Finished missing bar for symbol: F.US.QOF14 | Information
+23.12 08:02:22 |    Finished missing bar for symbol: F.US.DDZ13 | Information
+23.12 08:02:22 |    Finished missing bar for symbol: F.US.QOS1F14 | Information
+23.12 08:02:22 |    Finished missing bar for symbol: F.US.QOS1G14 | Information
+23.12 08:02:34 |  Collecting stoped!!! | Warning
+23.12 08:10:06 | Application Start | Information
+23.12 08:11:47 | Application Start | Information
+23.12 08:14:47 | Application Start | Information
+23.12 08:18:36 | Application Start | Information
+23.12 08:22:04 | Application Start | Information
+23.12 08:28:34 | Application Start | Information
+23.12 09:33:45 | Application Start | Information
+23.12 09:33:48 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 09:38:09 | Application Start | Information
+23.12 09:38:19 | Application Start | Information
+23.12 09:38:19 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 09:38:25 |   Collecting start for group: 2m_group | Information
+23.12 09:42:27 | Application Start | Information
+23.12 09:43:48 | Application Start | Information
+23.12 09:43:53 | Application Start | Information
+23.12 09:43:54 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 09:44:14 |   Collecting start for group: 2m_group | Information
+23.12 09:45:48 | Application Start | Information
+23.12 09:45:49 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 09:45:54 |   Collecting start for group: 2m_group | Information
+23.12 09:45:54 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 09:45:54 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 09:45:55 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 09:45:55 |      Symbol 'F.US.QOF14' collected | Information
+23.12 09:45:55 |   Collecting finished for group: 2m_group | Information
+23.12 09:47:08 | Application Start | Information
+23.12 09:47:08 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 09:47:14 |   Collecting start for group: tick_dd | Information
+23.12 09:47:14 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 09:47:14 |   Collecting finished for group: tick_dd | Information
+23.12 09:47:14 |   Collecting start for group: 2m_group | Information
+23.12 09:47:14 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 09:47:14 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 09:47:14 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 09:47:14 |      Symbol 'F.US.QOF14' collected | Information
+23.12 09:47:14 |   Collecting finished for group: 2m_group | Information
+23.12 13:52:03 | Application Start | Information
+23.12 13:52:04 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 13:52:14 |   Collecting start for group: tick_dd | Information
+23.12 13:52:14 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 13:52:14 |   Collecting finished for group: tick_dd | Information
+23.12 13:52:15 |   Collecting start for group: 2m_group | Information
+23.12 13:52:15 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 13:52:15 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 13:52:15 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 13:52:15 |      Symbol 'F.US.QOF14' collected | Information
+23.12 13:52:15 |   Collecting finished for group: 2m_group | Information
+23.12 14:20:04 | Application Start | Information
+23.12 14:20:06 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 15:14:07 | Application Start | Information
+23.12 15:14:07 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 18:03:39 | Application Start | Information
+23.12 18:03:40 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 18:04:14 | Application Start | Information
+23.12 18:04:14 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 18:05:33 | Application Start | Information
+23.12 18:05:33 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 18:06:13 | Application Start | Information
+23.12 18:06:13 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 18:08:00 |   Collecting finished for group: 2m_group | Information
+23.12 18:41:23 | Application Start | Information
+23.12 18:41:30 | Application Start | Information
+23.12 18:41:30 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 19:02:42 | Application Start | Information
+23.12 19:02:42 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 19:02:49 |   Collecting start for group: tick_dd | Information
+23.12 19:02:49 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 19:02:49 |   Collecting finished for group: tick_dd | Information
+23.12 19:02:49 |   Collecting start for group: 2m_group | Information
+23.12 19:02:49 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 19:02:49 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 19:02:49 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 19:02:49 |      Symbol 'F.US.QOF14' collected | Information
+23.12 19:02:49 |   Collecting finished for group: 2m_group | Information
+23.12 19:07:13 | Application Start | Information
+23.12 19:07:20 | Application Start | Information
+23.12 19:07:20 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 19:09:30 |   Collecting start for group: tick_dd | Information
+23.12 19:09:30 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 19:09:30 |   Collecting finished for group: tick_dd | Information
+23.12 19:09:30 |   Collecting start for group: 2m_group | Information
+23.12 19:09:30 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 19:09:30 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 19:09:30 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 19:09:30 |      Symbol 'F.US.QOF14' collected | Information
+23.12 19:09:30 |   Collecting finished for group: 2m_group | Information
+23.12 19:10:14 |   Collecting start for group: tick_dd | Information
+23.12 19:10:14 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 19:10:14 |   Collecting finished for group: tick_dd | Information
+23.12 19:10:14 |   Collecting start for group: 2m_group | Information
+23.12 19:10:14 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 19:10:14 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 19:10:14 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 19:10:14 |      Symbol 'F.US.QOF14' collected | Information
+23.12 19:10:15 |   Collecting finished for group: 2m_group | Information
+23.12 19:56:42 | Application Start | Information
+23.12 19:56:42 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 19:57:24 | Application Start | Information
+23.12 19:57:31 | Application Start | Information
+23.12 19:57:50 | Application Start | Information
+23.12 19:57:50 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 20:00:10 | Application Start | Information
+23.12 20:00:30 | Application Start | Information
+23.12 20:00:47 | Application Start | Information
+23.12 20:01:22 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 20:01:52 | Application Start | Information
+23.12 20:02:17 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+23.12 20:03:21 | Application Start | Information
+23.12 20:03:35 | Application Start | Information
+23.12 20:04:26 |   Collecting finished for group: 2m_group | Information
+23.12 20:06:09 | Application Start | Information
+23.12 20:06:37 |   Collecting finished for group: 2m_group | Information
+23.12 20:09:05 | Application Start | Information
+23.12 20:12:20 | Application Start | Information
+23.12 20:12:28 |   Collecting start for group: tick_dd | Information
+23.12 20:12:28 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 20:12:28 |   Collecting finished for group: tick_dd | Information
+23.12 20:12:28 |   Collecting start for group: 2m_group | Information
+23.12 20:12:28 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 20:12:28 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 20:12:28 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 20:12:28 |      Symbol 'F.US.QOF14' collected | Information
+23.12 20:12:28 |   Collecting finished for group: 2m_group | Information
+23.12 20:16:08 | Application Start | Information
+23.12 20:16:17 |   Collecting start for group: tick_dd | Information
+23.12 20:16:17 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 20:16:17 |   Collecting finished for group: tick_dd | Information
+23.12 20:16:17 |   Collecting start for group: 2m_group | Information
+23.12 20:16:17 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 20:16:17 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 20:16:18 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 20:16:18 |      Symbol 'F.US.QOF14' collected | Information
+23.12 20:16:18 |   Collecting finished for group: 2m_group | Information
+23.12 20:26:52 | Application Start | Information
+23.12 20:31:59 | Application Start | Information
+23.12 20:33:48 | Application Start | Information
+23.12 20:34:40 | Application Start | Information
+23.12 20:36:48 | Application Start | Information
+23.12 20:37:23 | Application Start | Information
+23.12 20:41:34 | Application Start | Information
+23.12 20:44:17 | Application Start | Information
+23.12 20:47:15 | Application Start | Information
+23.12 20:48:33 | Application Start | Information
+23.12 20:49:36 | Application Start | Information
+23.12 20:52:39 | Application Start | Information
+23.12 20:53:34 | Application Start | Information
+23.12 20:53:44 |   Collecting start for group: tick_dd | Information
+23.12 20:53:44 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 20:53:44 |   Collecting finished for group: tick_dd | Information
+23.12 20:53:44 |   Collecting start for group: 2m_group | Information
+23.12 20:53:44 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 20:53:44 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 20:53:45 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 20:53:45 |      Symbol 'F.US.QOF14' collected | Information
+23.12 20:53:45 |   Collecting finished for group: 2m_group | Information
+23.12 20:55:17 |   Collecting start for group: tick_dd | Information
+23.12 20:55:17 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 20:55:17 |   Collecting finished for group: tick_dd | Information
+23.12 20:55:17 |   Collecting start for group: 2m_group | Information
+23.12 20:55:17 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 20:55:17 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 20:55:17 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 20:55:17 |      Symbol 'F.US.QOF14' collected | Information
+23.12 20:55:17 |   Collecting finished for group: 2m_group | Information
+23.12 20:55:20 |   Collecting start for group: 2m_group | Information
+23.12 20:55:20 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 20:55:20 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 20:55:20 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 20:55:20 |      Symbol 'F.US.QOF14' collected | Information
+23.12 20:55:20 |   Collecting finished for group: 2m_group | Information
+23.12 21:05:04 |   Collecting start for group: tick_dd | Information
+23.12 21:05:05 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 21:05:05 |   Collecting finished for group: tick_dd | Information
+23.12 21:05:05 |   Collecting start for group: 2m_group | Information
+23.12 21:05:05 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 21:05:05 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 21:05:05 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 21:05:05 |      Symbol 'F.US.QOF14' collected | Information
+23.12 21:05:05 |   Collecting finished for group: 2m_group | Information
+23.12 21:10:21 | Application Start | Information
+23.12 21:11:22 | Application Start | Information
+23.12 21:11:43 |   Collecting start for group: tick_dd | Information
+23.12 21:11:43 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 21:11:43 |   Collecting finished for group: tick_dd | Information
+23.12 21:11:43 |   Collecting start for group: 2m_group | Information
+23.12 21:11:43 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 21:11:43 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 21:11:43 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 21:11:43 |      Symbol 'F.US.QOF14' collected | Information
+23.12 21:11:43 |   Collecting finished for group: 2m_group | Information
+23.12 21:16:35 | Application Start | Information
+23.12 21:19:27 | Application Start | Information
+23.12 21:39:58 | Application Start | Information
+23.12 21:41:18 |   Collecting start for group: tick_dd | Information
+23.12 21:41:18 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 21:41:18 |   Collecting finished for group: tick_dd | Information
+23.12 21:41:18 |   Collecting start for group: 2m_group | Information
+23.12 21:41:18 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 21:41:18 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 21:41:18 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 21:41:18 |      Symbol 'F.US.QOF14' collected | Information
+23.12 21:41:18 |   Collecting finished for group: 2m_group | Information
+23.12 21:41:39 |   Collecting start for group: tick_dd | Information
+23.12 21:41:39 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 21:41:39 |   Collecting finished for group: tick_dd | Information
+23.12 21:41:40 |   Collecting start for group: 2m_group | Information
+23.12 21:41:40 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 21:41:40 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 21:41:40 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 21:41:40 |      Symbol 'F.US.QOF14' collected | Information
+23.12 21:41:40 |   Collecting finished for group: 2m_group | Information
+23.12 22:06:32 | Application Start | Information
+23.12 22:07:12 |   Collecting start for group: tick_dd | Information
+23.12 22:07:12 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 22:07:12 |   Collecting finished for group: tick_dd | Information
+23.12 22:07:13 |   Collecting start for group: 2m_group | Information
+23.12 22:07:13 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 22:07:13 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 22:07:13 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 22:07:13 |      Symbol 'F.US.QOF14' collected | Information
+23.12 22:07:13 |   Collecting finished for group: 2m_group | Information
+23.12 22:08:32 | Application Start | Information
+23.12 22:08:43 |   Collecting start for group: tick_dd | Information
+23.12 22:08:43 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 22:08:43 |   Collecting finished for group: tick_dd | Information
+23.12 22:08:49 |   Collecting start for group: 2m_group | Information
+23.12 22:08:49 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 22:08:49 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 22:08:49 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 22:08:49 |      Symbol 'F.US.QOF14' collected | Information
+23.12 22:08:49 |   Collecting finished for group: 2m_group | Information
+23.12 22:09:04 |   Collecting start for group: tick_dd | Information
+23.12 22:09:04 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 22:09:04 |   Collecting finished for group: tick_dd | Information
+23.12 22:09:04 |   Collecting start for group: 2m_group | Information
+23.12 22:09:04 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 22:09:04 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 22:09:04 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 22:09:04 |      Symbol 'F.US.QOF14' collected | Information
+23.12 22:09:04 |   Collecting finished for group: 2m_group | Information
+23.12 22:12:23 | Application Start | Information
+23.12 22:12:58 | Application Start | Information
+23.12 22:13:05 |   Collecting start for group: tick_dd | Information
+23.12 22:13:05 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 22:13:05 |   Collecting finished for group: tick_dd | Information
+23.12 22:13:05 |   Collecting start for group: 2m_group | Information
+23.12 22:13:05 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 22:13:05 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 22:13:05 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 22:13:05 |      Symbol 'F.US.QOF14' collected | Information
+23.12 22:13:05 |   Collecting finished for group: 2m_group | Information
+23.12 22:24:27 | Application Start | Information
+23.12 22:25:36 |   Collecting start for group: tick_dd | Information
+23.12 22:25:36 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 22:25:36 |   Collecting finished for group: tick_dd | Information
+23.12 22:25:37 |   Collecting start for group: 2m_group | Information
+23.12 22:25:37 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 22:25:37 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 22:25:37 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 22:25:37 |      Symbol 'F.US.QOF14' collected | Information
+23.12 22:25:37 |   Collecting finished for group: 2m_group | Information
+23.12 22:53:10 | Application Start | Information
+23.12 23:08:40 | Application Start | Information
+23.12 23:10:23 | Application Start | Information
+23.12 23:13:10 |   Collecting start for group: tick_dd | Information
+23.12 23:13:10 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 23:13:10 |   Collecting finished for group: tick_dd | Information
+23.12 23:16:45 | Application Start | Information
+23.12 23:17:00 |   Collecting start for group: tick_dd | Information
+23.12 23:17:00 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 23:17:00 |   Collecting finished for group: tick_dd | Information
+23.12 23:17:00 |   Collecting start for group: 2m_group | Information
+23.12 23:17:00 |      Symbol 'F.US.DDZ13' collected | Information
+23.12 23:17:00 |      Symbol 'F.US.QOS1G14' collected | Information
+23.12 23:17:00 |      Symbol 'F.US.QOZ14' collected | Information
+23.12 23:17:00 |      Symbol 'F.US.QOF14' collected | Information
+23.12 23:17:00 |   Collecting finished for group: 2m_group | Information
+23.12 23:26:34 | Application Start | Information
+24.12 00:04:38 | Application Start | Information
+24.12 00:08:59 |   Collecting start for group: 2m_group | Information
+24.12 00:08:59 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:08:59 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:08:59 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:08:59 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:08:59 |   Collecting finished for group: 2m_group | Information
+24.12 00:12:06 | Application Start | Information
+24.12 00:13:15 |   Collecting start for group: 2m_group | Information
+24.12 00:13:15 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:13:15 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:13:15 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:13:15 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:13:15 |   Collecting finished for group: 2m_group | Information
+24.12 00:15:02 | Application Start | Information
+24.12 00:16:20 |   Collecting start for group: 2m_group | Information
+24.12 00:16:20 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:16:20 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:16:20 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:16:20 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:16:20 |   Collecting finished for group: 2m_group | Information
+24.12 00:16:23 |   Collecting start for group: 2m_group | Information
+24.12 00:16:23 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:16:23 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:16:23 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:16:23 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:16:23 |   Collecting finished for group: 2m_group | Information
+24.12 00:16:26 |   Collecting start for group: 2m_group | Information
+24.12 00:16:26 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:16:26 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:16:26 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:16:26 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:16:26 |   Collecting finished for group: 2m_group | Information
+24.12 00:16:29 |   Collecting start for group: 2m_group | Information
+24.12 00:16:29 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:16:29 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:16:29 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:16:29 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:16:29 |   Collecting finished for group: 2m_group | Information
+24.12 00:16:32 |   Collecting start for group: 2m_group | Information
+24.12 00:16:32 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:16:32 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:16:32 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:16:32 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:16:32 |   Collecting finished for group: 2m_group | Information
+24.12 00:16:35 |   Collecting start for group: 2m_group | Information
+24.12 00:16:35 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:16:35 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:16:35 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:16:35 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:16:35 |   Collecting finished for group: 2m_group | Information
+24.12 00:16:38 |   Collecting start for group: 2m_group | Information
+24.12 00:16:38 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:16:38 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:16:38 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:16:38 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:16:38 |   Collecting finished for group: 2m_group | Information
+24.12 00:16:41 |   Collecting start for group: 2m_group | Information
+24.12 00:16:41 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:16:41 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:16:41 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:16:41 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:16:41 |   Collecting finished for group: 2m_group | Information
+24.12 00:16:44 |   Collecting start for group: 2m_group | Information
+24.12 00:16:44 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:16:44 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:16:44 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:16:44 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:16:44 |   Collecting finished for group: 2m_group | Information
+24.12 00:16:47 |   Collecting start for group: 2m_group | Information
+24.12 00:16:47 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:16:47 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:16:47 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:16:47 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:16:47 |   Collecting finished for group: 2m_group | Information
+24.12 00:16:50 |   Collecting start for group: 2m_group | Information
+24.12 00:16:50 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:16:50 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:16:50 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:16:50 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:16:50 |   Collecting finished for group: 2m_group | Information
+24.12 00:16:53 |   Collecting start for group: 2m_group | Information
+24.12 00:16:53 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:16:53 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:16:53 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:16:53 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:16:53 |   Collecting finished for group: 2m_group | Information
+24.12 00:16:56 |   Collecting start for group: 2m_group | Information
+24.12 00:16:56 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:16:56 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:16:56 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:16:56 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:16:56 |   Collecting finished for group: 2m_group | Information
+24.12 00:16:59 |   Collecting start for group: 2m_group | Information
+24.12 00:16:59 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:16:59 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:16:59 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:16:59 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:16:59 |   Collecting finished for group: 2m_group | Information
+24.12 00:19:54 | Application Start | Information
+24.12 00:21:51 |   Collecting start for group: 2m_group | Information
+24.12 00:21:51 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:21:51 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:21:51 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:21:51 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:21:51 |   Collecting finished for group: 2m_group | Information
+24.12 00:22:54 |   Collecting start for group: 2m_group | Information
+24.12 00:22:54 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:22:54 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:22:54 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:22:54 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:22:54 |   Collecting finished for group: 2m_group | Information
+24.12 00:26:00 | Application Start | Information
+24.12 00:26:39 |   Collecting finished for group: 2m_group | Information
+24.12 00:27:43 | Application Start | Information
+24.12 00:35:34 | Application Start | Information
+24.12 00:35:47 |   Collecting start for group: 2m_group | Information
+24.12 00:35:47 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:35:47 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:35:47 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:35:47 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:36:06 |   Collecting finished for group: 2m_group | Information
+24.12 00:39:40 | Application Start | Information
+24.12 00:41:50 | Application Start | Information
+24.12 00:43:14 | Application Start | Information
+24.12 00:44:07 |   Collecting start for group: 2m_group | Information
+24.12 00:44:07 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:44:07 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:44:07 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:44:07 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:44:11 |   Collecting finished for group: 2m_group | Information
+24.12 00:45:12 |   Collecting start for group: 2m_group | Information
+24.12 00:45:12 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:45:12 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:45:12 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:45:12 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:45:12 |   Collecting finished for group: 2m_group | Information
+24.12 00:46:30 | Application Start | Information
+24.12 00:47:40 | Application Start | Information
+24.12 00:48:44 | Application Start | Information
+24.12 00:49:10 |   Collecting start for group: 2m_group | Information
+24.12 00:49:10 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:49:10 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:49:10 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:49:10 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:49:10 |   Collecting finished for group: 2m_group | Information
+24.12 00:52:57 | Application Start | Information
+24.12 00:56:01 |   Collecting start for group: 2m_group | Information
+24.12 00:56:01 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:56:02 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:56:02 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:56:02 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:56:02 |   Collecting finished for group: 2m_group | Information
+24.12 00:56:12 | Application Start | Information
+24.12 00:57:03 |   Collecting start for group: 2m_group | Information
+24.12 00:57:03 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:57:03 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:57:03 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:57:03 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:57:03 |   Collecting finished for group: 2m_group | Information
+24.12 00:58:03 |   Collecting start for group: 2m_group | Information
+24.12 00:58:03 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:58:03 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:58:03 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:58:03 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:58:03 |   Collecting finished for group: 2m_group | Information
+24.12 00:59:06 |   Collecting start for group: 2m_group | Information
+24.12 00:59:06 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 00:59:06 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 00:59:06 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 00:59:06 |      Symbol 'F.US.QOF14' collected | Information
+24.12 00:59:06 |   Collecting finished for group: 2m_group | Information
+24.12 01:00:09 |   Collecting start for group: 2m_group | Information
+24.12 01:00:09 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 01:00:09 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 01:00:09 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 01:00:09 |      Symbol 'F.US.QOF14' collected | Information
+24.12 01:00:09 |   Collecting finished for group: 2m_group | Information
+24.12 13:41:47 | Application Start | Information
+24.12 13:49:48 | Application Start | Information
+24.12 13:51:33 | Application Start | Information
+24.12 13:53:59 | Application Start | Information
+24.12 13:54:54 | Application Start | Information
+24.12 13:55:14 | Application Start | Information
+24.12 13:56:11 | Application Start | Information
+24.12 13:57:25 | Application Start | Information
+24.12 13:58:23 |   Collecting start for group: 2m_group | Information
+24.12 13:58:23 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 13:58:23 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 13:58:23 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 13:58:23 |      Symbol 'F.US.QOF14' collected | Information
+24.12 13:58:23 |      Symbol 'F.US.QOS1F14' collected | Information
+24.12 13:58:23 |   Collecting finished for group: 2m_group | Information
+24.12 13:59:23 |   Collecting start for group: 2m_group | Information
+24.12 13:59:23 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 13:59:23 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 13:59:23 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 13:59:23 |      Symbol 'F.US.QOF14' collected | Information
+24.12 13:59:23 |      Symbol 'F.US.QOS1F14' collected | Information
+24.12 13:59:23 |   Collecting finished for group: 2m_group | Information
+24.12 14:00:23 |   Collecting start for group: 2m_group | Information
+24.12 14:00:23 |      Symbol 'F.US.DDZ13' collected | Information
+24.12 14:00:23 |      Symbol 'F.US.QOS1G14' collected | Information
+24.12 14:00:23 |      Symbol 'F.US.QOZ14' collected | Information
+24.12 14:00:23 |      Symbol 'F.US.QOF14' collected | Information
+24.12 14:00:23 |      Symbol 'F.US.QOS1F14' collected | Information
+24.12 14:00:23 |   Collecting finished for group: 2m_group | Information
+30.12 18:45:20 | Application Start | Information
+30.12 18:51:28 | Application Start | Information
+30.12 18:52:20 | Application Start | Information
+30.12 18:53:16 |   Collecting start for group: TestGroup | Information
+30.12 18:54:01 |      Symbol 'F.US.QOS1G14' collected | Information
+30.12 18:55:32 | Application Start | Information
+30.12 18:55:55 | Application Start | Information
+30.12 18:56:20 | Application Start | Information
+30.12 18:56:45 |   Collecting start for group: TestGroup | Information
+30.12 18:57:16 | Application Start | Information
+30.12 18:57:40 |   Collecting start for group: TestGroup | Information
+30.12 18:59:30 | Application Start | Information
+30.12 18:59:46 |   Collecting start for group: TestGroup | Information
+30.12 19:00:08 |   Collecting finished for group: TestGroup | Information
+30.12 19:01:00 |   Collecting start for group: TestGroup | Information
+30.12 19:01:36 | Application Start | Information
+30.12 19:02:10 |   Collecting start for group: TestGroup | Information
+30.12 19:04:02 | Application Start | Information
+30.12 19:04:14 |   Collecting start for group: TestGroup | Information
+30.12 19:04:23 |      Symbol 'F.US.QOS1G14' collected | Information
+30.12 19:05:14 | Application Start | Information
+30.12 19:05:22 |   Collecting start for group: TestGroup | Information
+30.12 19:06:00 |      Symbol 'F.US.QOS1G14' collected | Information
+30.12 19:06:37 |   Collecting finished for group: TestGroup | Information
+30.12 19:06:53 |   Collecting start for group: TestGroup | Information
+30.12 19:07:01 |      Symbol 'F.US.QOS1G14' collected | Information
+30.12 19:07:04 |      Symbol 'F.US.DDZ13' collected | Information
+30.12 19:07:25 |   Collecting finished for group: TestGroup | Information
+30.12 19:07:47 |   Collecting start for group: TestGroup | Information
+30.12 19:07:52 |      Symbol 'F.US.QOS1G14' collected | Information
+30.12 19:07:53 |      Symbol 'F.US.DDZ13' collected | Information
+30.12 19:08:50 |   Collecting finished for group: TestGroup | Information
+30.12 19:08:54 |   Collecting start for group: TestGroup | Information
+30.12 19:08:56 |      Symbol 'F.US.QOS1G14' collected | Information
+30.12 19:08:57 |      Symbol 'F.US.DDZ13' collected | Information
+30.12 19:08:57 |   Collecting finished for group: TestGroup | Information
+30.12 19:08:57 |   Collecting start for group: 2m_group | Information
+30.12 19:08:59 |      Symbol 'F.US.DDZ13' collected | Information
+30.12 19:09:03 |      Symbol 'F.US.QOS1G14' collected | Information
+30.12 19:09:03 |      Symbol 'F.US.QOF14' collected | Information
+30.12 19:09:05 |      Symbol 'F.US.QOZ14' collected | Information
+30.12 19:09:06 |   Collecting finished for group: 2m_group | Information
+30.12 19:17:36 |   Collecting start for group: TestGroup | Information
+30.12 19:17:37 |      Symbol 'F.US.DDZ13' collected | Information
+30.12 19:17:40 |      Symbol 'F.US.QOS1G14' collected | Information
+30.12 19:17:40 |   Collecting finished for group: TestGroup | Information
+30.12 19:17:40 |   Collecting start for group: 2m_group | Information
+30.12 19:17:42 |      Symbol 'F.US.DDZ13' collected | Information
+30.12 19:17:44 |      Symbol 'F.US.QOS1G14' collected | Information
+30.12 19:17:45 |      Symbol 'F.US.QOZ14' collected | Information
+30.12 19:17:46 |      Symbol 'F.US.QOF14' collected | Information
+30.12 19:17:46 |   Collecting finished for group: 2m_group | Information
+30.12 19:18:37 |   Collecting start for group: TestGroup | Information
+30.12 19:18:40 |      Symbol 'F.US.QOS1G14' collected | Information
+30.12 19:18:41 |      Symbol 'F.US.DDZ13' collected | Information
+30.12 19:18:41 |   Collecting finished for group: TestGroup | Information
+30.12 19:18:41 |   Collecting start for group: 2m_group | Information
+30.12 19:18:44 |      Symbol 'F.US.DDZ13' collected | Information
+30.12 19:18:46 |      Symbol 'F.US.QOS1G14' collected | Information
+30.12 19:18:48 |      Symbol 'F.US.QOZ14' collected | Information
+30.12 19:18:48 |      Symbol 'F.US.QOF14' collected | Information
+30.12 19:18:48 |   Collecting finished for group: 2m_group | Information
+30.12 19:21:09 | Application Start | Information
+30.12 19:21:16 |   Collecting start for group: TestGroup | Information
+30.12 19:21:18 |      Symbol 'F.US.QOS1G14' collected | Information
+30.12 19:21:19 |      Symbol 'F.US.DDZ13' collected | Information
+30.12 19:21:19 |   Collecting finished for group: TestGroup | Information
+30.12 19:21:19 |   Collecting start for group: 2m_group | Information
+30.12 19:21:22 |      Symbol 'F.US.DDZ13' collected | Information
+30.12 19:21:24 |      Symbol 'F.US.QOS1G14' collected | Information
+30.12 19:21:26 |      Symbol 'F.US.QOZ14' collected | Information
+30.12 19:21:26 |      Symbol 'F.US.QOF14' collected | Information
+30.12 19:21:26 |   Collecting finished for group: 2m_group | Information
+30.12 19:30:47 | Application Start | Information

@@ -1,0 +1,12 @@
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdminCommonLib\bin\Debug\DataAdminCommonLib.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdminCommonLib\bin\Debug\DataAdminCommonLib.pdb
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdminCommonLib\bin\Debug\Scs.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdminCommonLib\obj\Debug\DataAdminCommonLib.csprojResolveAssemblyReference.cache
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdminCommonLib\obj\Debug\DataAdminCommonLib.dll
+C:\Work\DATA ADMIN FULL SVN\trunk\DataAdminCommonLib\obj\Debug\DataAdminCommonLib.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdminCommonLib\bin\Debug\DataAdminCommonLib.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdminCommonLib\bin\Debug\DataAdminCommonLib.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdminCommonLib\bin\Debug\Scs.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdminCommonLib\obj\Debug\DataAdminCommonLib.csprojResolveAssemblyReference.cache
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdminCommonLib\obj\Debug\DataAdminCommonLib.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataAdminCommonLib\obj\Debug\DataAdminCommonLib.pdb

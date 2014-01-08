@@ -1,0 +1,10 @@
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\DataAdminCommonLib.Fakes.xml
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\DataAdminCommonLib.Fakes.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\DataAdminCommonLib.Fakes.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\DataAdminCommonLib.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\Scs.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\b\DataAdminCommonLib.pdb
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\o\f.csprojResolveAssemblyReference.cache
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\o\DataAdminCommonLib.Fakes.dll
+C:\SharedFolder\DEVELOPMENT\DESKTOP PROGRAMING\DataAdminRepo\DataNormalizer\obj\Debug\Fakes\dacl\o\DataAdminCommonLib.Fakes.pdb
