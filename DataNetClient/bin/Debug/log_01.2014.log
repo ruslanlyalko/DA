@@ -80,3 +80,24 @@ See log files for more details (try to enable DEBUG logging level to get more in
 02.01 13:31:51 |   Collecting start for group: ddz_1m | Information
 02.01 13:31:51 |      Symbol 'F.US.DDZ13' collected | Information
 02.01 13:31:51 |   Collecting finished for group: ddz_1m | Information
+02.01 18:36:31 | Application Start | Information
+03.01 16:14:21 | Application Start | Information
+03.01 16:14:30 | Failed to start Quote Agent. 
+CQGIC is not started. 
+See log files for more details (try to enable DEBUG logging level to get more info). | Error
+03.01 16:15:28 |   Collecting start for group: ddz_1m | Information
+03.01 16:15:29 |      Symbol 'F.US.DDZ13' collected | Information
+03.01 16:15:29 |   Collecting finished for group: ddz_1m | Information
+03.01 16:15:29 |   Collecting start for group: TestGroup | Information
+03.01 16:15:29 |      Symbol 'F.US.QOS1G14' collected | Information
+03.01 16:15:29 |      Symbol 'F.US.DDZ13' collected | Information
+03.01 16:15:29 |   Collecting finished for group: TestGroup | Information
+03.01 16:15:29 |   Collecting start for group: tick_dd | Information
+03.01 16:15:29 |      Symbol 'F.US.DDZ13' collected | Information
+03.01 16:15:29 |   Collecting finished for group: tick_dd | Information
+03.01 16:15:54 |   Collecting start for group: 2m_group | Information
+03.01 16:15:54 |      Symbol 'F.US.DDZ13' collected | Information
+03.01 16:15:54 |      Symbol 'F.US.QOS1G14' collected | Information
+03.01 16:15:54 |      Symbol 'F.US.QOZ14' collected | Information
+03.01 16:15:54 |      Symbol 'F.US.QOF14' collected | Information
+03.01 16:15:54 |   Collecting finished for group: 2m_group | Information

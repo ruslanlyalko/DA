@@ -21,7 +21,8 @@ namespace DataNetClient.Core.CQGDataCollector
         private static bool _startedManualCollecting;
         private static eHistoricalPeriod _aHistoricalPeriod;
 
-        private static string _userName;
+        private static string _userName;       
+
 
         private static int _rangeStart;
         private static int _rangeEnd=-3000;
@@ -174,8 +175,7 @@ namespace DataNetClient.Core.CQGDataCollector
             var symbol = cqgTimedBars.Request.Symbol;
 
             BarsAdd(cqgTimedBars, cqgError, _userName);
-            FinishCollectingSymbol(symbol);
-
+            FinishCollectingSymbol(symbol);            
         }
 
         static void _cel_DataError(object cqgError, string errorDescription)
@@ -549,6 +549,15 @@ namespace DataNetClient.Core.CQGDataCollector
         #region GROUP LIST private
         private static bool ThereAreHaveInProgress()
         {
+            int a = 5;
+
+            for (int i = 0; i < 10; i++)
+            {
+                a++;
+
+            }
+            a++;
+
             return _groups.Any(groupItem => groupItem.GroupState == GroupState.InProgress)||_symbols.Count!=_symbolsCollected.Count;
         }
 
@@ -1154,5 +1163,16 @@ namespace DataNetClient.Core.CQGDataCollector
                 OnRunnedStateChanged(value);
             }
         }
+
+#region MyRegion
+		
+
+        #region dfsgdfhbzdmn  fdhgfdbfv cvb
+
+        #endregion
+ 
+	#endregion    
+    
+    
     }
 }
