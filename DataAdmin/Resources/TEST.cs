@@ -7,5 +7,11 @@ namespace DataAdmin.Resources
 {
     class TEST
     {
+        public int TestVar = 1;
+
+        public int ChangeTestVar()
+        {
+            return 1;
+        }
     }
 }
