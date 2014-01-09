@@ -210,6 +210,7 @@ namespace DataNetClient.Core.CQGDataCollector
                 request.RangeEnd = _rangeEnd;
                 request.SessionsFilter = _sessionFilter;
                 request.Symbol = symbolName;
+                request.Continuation = ConvertToTsts(_continuationType);
 
                 request.IntradayPeriod = GetIntradayPeriod(_historicalPeriod);
 
@@ -229,6 +230,17 @@ namespace DataNetClient.Core.CQGDataCollector
                 Console.WriteLine(ex);
             }
 
+        }
+
+        private static eTimeSeriesContinuationType ConvertToTsts(string continuationType)
+        {
+            switch (continuationType)
+            {
+                case "tsctStandard":
+                    return eTimeSeriesContinuationType.tsctStandard;
+
+                default: return eTimeSeriesContinuationType.tsctNoContinuation;
+            }
         }
 
         

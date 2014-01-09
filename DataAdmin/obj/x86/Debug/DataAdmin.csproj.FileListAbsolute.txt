@@ -148,3 +148,8 @@ C:\Users\rusla_000\Documents\da\DataAdmin\obj\x86\Debug\DataAdmin.Properties.Res
 C:\Users\rusla_000\Documents\da\DataAdmin\obj\x86\Debug\DataAdmin.csproj.GenerateResource.Cache
 C:\Users\rusla_000\Documents\da\DataAdmin\obj\x86\Debug\DataAdmin.exe
 C:\Users\rusla_000\Documents\da\DataAdmin\obj\x86\Debug\DataAdmin.pdb
+C:\Users\rusla_000\Source\Repos\DA\DataAdmin\bin\x86\Debug\DataAdmin.exe.config
+C:\Users\rusla_000\Source\Repos\DA\DataAdmin\obj\x86\Debug\Interop.CQG.dll
+C:\Users\rusla_000\Source\Repos\DA\DataAdmin\obj\x86\Debug\DataAdmin.csproj.ResolveComReference.cache
+C:\Users\rusla_000\Source\Repos\DA\DataAdmin\obj\x86\Debug\DataAdmin.exe
+C:\Users\rusla_000\Source\Repos\DA\DataAdmin\obj\x86\Debug\DataAdmin.pdb

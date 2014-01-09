@@ -1843,6 +1843,16 @@ namespace DataNetClient.Forms
         }
 
         #endregion
+
+        private void metroTabItem3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ui_listBox_symbolsForMissing_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
        
     }
 }

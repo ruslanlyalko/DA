@@ -48,6 +48,7 @@ namespace DataNetClient.Forms
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.panelEx3 = new DevComponents.DotNetBar.PanelEx();
             this.panelEx6 = new DevComponents.DotNetBar.PanelEx();
+            this.styledListControl1 = new DataNetClient.Controls.StyledListControl();
             this.labelX7 = new DevComponents.DotNetBar.LabelX();
             this.panelEx4 = new DevComponents.DotNetBar.PanelEx();
             this.buttonX_StartCollectGroups = new DevComponents.DotNetBar.ButtonX();
@@ -146,7 +147,6 @@ namespace DataNetClient.Forms
             this.deleteListToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.styleManager1 = new DevComponents.DotNetBar.StyleManager(this.components);
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
-            this.styledListControl1 = new DataNetClient.Controls.StyledListControl();
             this.metroShell1.SuspendLayout();
             this.metroTabPanel2.SuspendLayout();
             this.tableLayoutPanel1.SuspendLayout();
@@ -267,8 +267,8 @@ namespace DataNetClient.Forms
             this.metroShell1.CanCustomize = false;
             this.metroShell1.CaptionVisible = true;
             this.metroShell1.Controls.Add(this.metroTabPanel2);
-            this.metroShell1.Controls.Add(this.metroTabPanel3);
             this.metroShell1.Controls.Add(this.metroTabPanel1);
+            this.metroShell1.Controls.Add(this.metroTabPanel3);
             this.metroShell1.Controls.Add(this.metroTabPanel4);
             this.metroShell1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.metroShell1.ForeColor = System.Drawing.Color.Black;
@@ -383,6 +383,18 @@ namespace DataNetClient.Forms
             this.panelEx6.Style.ForeColor.ColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelText;
             this.panelEx6.Style.GradientAngle = 90;
             this.panelEx6.TabIndex = 24;
+            // 
+            // styledListControl1
+            // 
+            this.styledListControl1.BackColor = System.Drawing.Color.White;
+            this.styledListControl1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.styledListControl1.ForeColor = System.Drawing.Color.Black;
+            this.styledListControl1.Location = new System.Drawing.Point(1, 1);
+            this.styledListControl1.Name = "styledListControl1";
+            this.styledListControl1.SelectedItem = -1;
+            this.styledListControl1.Size = new System.Drawing.Size(344, 381);
+            this.styledListControl1.StateChangingEnabled = false;
+            this.styledListControl1.TabIndex = 23;
             // 
             // labelX7
             // 
@@ -1248,6 +1260,7 @@ namespace DataNetClient.Forms
             this.ui_listBox_symbolsForMissing.SelectionMode = System.Windows.Forms.SelectionMode.MultiSimple;
             this.ui_listBox_symbolsForMissing.Size = new System.Drawing.Size(240, 226);
             this.ui_listBox_symbolsForMissing.TabIndex = 37;
+            this.ui_listBox_symbolsForMissing.SelectedIndexChanged += new System.EventHandler(this.ui_listBox_symbolsForMissing_SelectedIndexChanged);
             // 
             // contextMenuStripTables
             // 
@@ -1759,6 +1772,7 @@ namespace DataNetClient.Forms
             this.metroTabItem3.Panel = this.metroTabPanel3;
             this.metroTabItem3.Text = "&MISSING BARS";
             this.metroTabItem3.Visible = false;
+            this.metroTabItem3.Click += new System.EventHandler(this.metroTabItem3_Click);
             // 
             // metroTabItem4
             // 
@@ -1791,18 +1805,6 @@ namespace DataNetClient.Forms
             this.styleManager1.ManagerColorTint = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.styleManager1.ManagerStyle = DevComponents.DotNetBar.eStyle.Metro;
             this.styleManager1.MetroColorParameters = new DevComponents.DotNetBar.Metro.ColorTables.MetroColorGeneratorParameters(System.Drawing.Color.White, System.Drawing.Color.Green);
-            // 
-            // styledListControl1
-            // 
-            this.styledListControl1.BackColor = System.Drawing.Color.White;
-            this.styledListControl1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.styledListControl1.ForeColor = System.Drawing.Color.Black;
-            this.styledListControl1.Location = new System.Drawing.Point(1, 1);
-            this.styledListControl1.Name = "styledListControl1";
-            this.styledListControl1.SelectedItem = -1;
-            this.styledListControl1.Size = new System.Drawing.Size(344, 381);
-            this.styledListControl1.StateChangingEnabled = false;
-            this.styledListControl1.TabIndex = 23;
             // 
             // FormMain
             // 

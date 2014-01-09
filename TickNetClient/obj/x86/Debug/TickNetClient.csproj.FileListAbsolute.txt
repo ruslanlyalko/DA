@@ -108,3 +108,8 @@ C:\Users\rusla_000\Documents\da\TickNetClient\obj\x86\Debug\TickNetClient.Proper
 C:\Users\rusla_000\Documents\da\TickNetClient\obj\x86\Debug\TickNetClient.csproj.GenerateResource.Cache
 C:\Users\rusla_000\Documents\da\TickNetClient\obj\x86\Debug\TickNetClient.exe
 C:\Users\rusla_000\Documents\da\TickNetClient\obj\x86\Debug\TickNetClient.pdb
+C:\Users\rusla_000\Source\Repos\DA\TickNetClient\bin\x86\Debug\TickNetClient.exe.config
+C:\Users\rusla_000\Source\Repos\DA\TickNetClient\obj\x86\Debug\Interop.CQG.dll
+C:\Users\rusla_000\Source\Repos\DA\TickNetClient\obj\x86\Debug\TickNetClient.csproj.ResolveComReference.cache
+C:\Users\rusla_000\Source\Repos\DA\TickNetClient\obj\x86\Debug\TickNetClient.exe
+C:\Users\rusla_000\Source\Repos\DA\TickNetClient\obj\x86\Debug\TickNetClient.pdb

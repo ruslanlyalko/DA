@@ -824,7 +824,8 @@ namespace DataNetClient.Core.DbConnector
             {
                 if (_connectionToDbBar.State != ConnectionState.Open)
                 {
-                    return false;// OpenConnectionToDb();
+                    //return false;// 
+                    OpenConnectionBar();
                 }
                 _sqlCommandToDbBar.CommandText = sql;
                 _sqlCommandToDbBar.ExecuteNonQuery();
@@ -1593,7 +1594,7 @@ namespace DataNetClient.Core.DbConnector
 
         private static void CreateTables()
         {
-            var a = 1;
+
 
             const string createUsersSql = "CREATE TABLE  IF NOT EXISTS `" + TblUsers + "` ("
                                      + "`ID` INT(12) UNSIGNED  NOT NULL AUTO_INCREMENT,"
