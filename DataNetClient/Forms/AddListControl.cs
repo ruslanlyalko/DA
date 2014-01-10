@@ -338,7 +338,8 @@ namespace DataNetClient.Forms
             cmbContinuationType.Items.Add(eTimeSeriesContinuationType.tsctActiveByMonth);
             cmbContinuationType.Items.Add(eTimeSeriesContinuationType.tsctAdjusted);
             cmbContinuationType.Items.Add(eTimeSeriesContinuationType.tsctAdjustedByMonth);
-            cmbContinuationType.SelectedIndex = 0;
+            cmbContinuationType.SelectedIndex = 1;
+            cmbHistoricalPeriod.SelectedIndex = 1;
         }
     }
 }

@@ -30,7 +30,7 @@ namespace DataNetClient.Core.CQGDataCollector
         private static DateTime _rangeDateStart;
         private static DateTime _rangeDateEnd;
 
-        private static int _sessionFilter;
+        private static int _sessionFilter=31;
         private static string _historicalPeriod;
         private static string _continuationType;
         private static bool _isStoped;
@@ -265,6 +265,7 @@ namespace DataNetClient.Core.CQGDataCollector
                 tickRequest.RangeEnd = _rangeDateEnd;
                 tickRequest.Type = eTicksRequestType.trtSinceTimeNotify;
                 tickRequest.Symbol = symbolName;
+                tickRequest.SessionsFilter = _sessionFilter;
 
                 CQGTicks ticks = Cel.RequestTicks(tickRequest);
 
@@ -498,7 +499,7 @@ namespace DataNetClient.Core.CQGDataCollector
             return true;
 
         }
-        public static bool StartFromList(List<string> symbols, DateTime rangeDateStart, DateTime rangeDateEnd, int sessionFilter, string historicalPeriod, string continuationType, int rangeStart, int rangeEnd, string userName)
+        public static bool StartFromList(bool isTick, List<string> symbols, DateTime rangeDateStart, DateTime rangeDateEnd, int sessionFilter, string historicalPeriod, string continuationType, int rangeStart, int rangeEnd, string userName)
         {
             if (IsStarted) return false;
 
@@ -524,7 +525,7 @@ namespace DataNetClient.Core.CQGDataCollector
                 foreach (var symbol in _symbols)
                 {
 
-                    if (_historicalPeriod == "tick")
+                    if (isTick)
                         TicksRequest(symbol);
                     else
                         TimeBarRequest(symbol);

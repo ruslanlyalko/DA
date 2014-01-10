@@ -1781,8 +1781,8 @@ namespace DataNetClient.Forms
             var symbols = ui_listBox_symbols.SelectedItems.Cast<string>().ToList();
 
             _logger.LogAdd(@" Start collecting symbols from list ["+symbols.Count+"]", Category.Information);
-
-            CQGDataCollectorManager.StartFromList(symbols, dateTimeInputStart.Value.Date, dateTimeInputEnd.Value, (rdb1.Checked ? 1 : 31),
+            var isTick = radioButtonTick.Checked;
+            CQGDataCollectorManager.StartFromList(isTick,symbols, dateTimeInputStart.Value.Date, dateTimeInputEnd.Value, (rdb1.Checked ? 1 : 31),
                 cmbHistoricalPeriod.SelectedItem.ToString(), cmbContinuationType.SelectedItem.ToString(), (int)nudStartBar.Value, (int)nudEndBar.Value, _client.UserName);
                         
         }

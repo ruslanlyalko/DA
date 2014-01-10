@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Data;
 using System.Globalization;
 using System.Linq;
-using System.Xml.Linq;
-using DataNetClient.Properties;
 using MySql.Data.MySqlClient;
 
 namespace DataNetClient.Core.DbConnector
@@ -1714,14 +1712,6 @@ namespace DataNetClient.Core.DbConnector
 
             DoSql(query);
         }
-    }
-
-    public struct TimeRange
-    {
-        public DateTime StartTime;
-        public DateTime EndTime;
-        public String StrTfTyoe;
-        public String StrContinuationType;
     }
 
     public struct ReportItem
